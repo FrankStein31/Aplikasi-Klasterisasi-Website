@@ -1,0 +1,80 @@
+/* Styling Sidebar */
+.sidebar {
+    background-color: #343a40;
+    color: white;
+    position: fixed;
+    width: 250px;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.sidebar h4 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.sidebar a {
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+}
+
+/* Menambahkan gaya untuk Sidebar */
+.sidebar a {
+    display: block;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.sidebar a:hover {
+    background-color: #34495e; /* Warna lebih terang saat hover */
+}
+
+.main-content {
+    margin-left: 260px;
+    padding: 20px;
+    background-color: white;
+}
+
+/* Menambahkan padding dan warna latar belakang untuk tombol */
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+
+/* Tabel styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling untuk Footer */
+footer {
+    background-color: transparent;  /* Hapus latar belakang */
+    color: #333;  /* Teks gelap */
+    padding: 10px 0;         /* Menambahkan padding vertikal */
+    position: relative;         /* Tetap di bagian bawah */
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}

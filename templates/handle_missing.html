@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{% block title %}Penanganan Missing Values{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-10">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-warning text-white d-flex align-items-center">
+                    <i class="fas fa-exclamation-triangle me-3"></i>
+                    <h2 class="card-title mb-0">Penanganan Missing Values</h2>
+                </div>
+                <div class="card-body">
+                    <!-- Pesan Feedback -->
+                    {% with messages = get_flashed_messages(with_categories=true) %}
+                        {% if messages %}
+                            <div class="alert alert-{{ messages[0][0] }} d-flex align-items-center" role="alert">
+                                <i class="fas fa-{{ 'check-circle' if messages[0][0] == 'success' else 'exclamation-circle' }} me-3"></i>
+                                {{ messages[0][1] }}
+                            </div>
+                        {% endif %}
+                    {% endwith %}
+
+                    <!-- Informasi Missing Values -->
+                    <div class="card mb-4 border-0 bg-light">
+                        <div class="card-body">
+                            <h4 class="card-title mb-3">
+                                <i class="fas fa-info-circle me-2 text-info"></i>Informasi Missing Values
+                            </h4>
+                            <ul class="list-group list-group-flush">
+                                {% if missing_info %}
+                                    {% for column, count in missing_info.items() %}
+                                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                                            {{ column }}
+                                            <span class="badge bg-warning rounded-pill">{{ count }} missing</span>
+                                        </li>
+                                    {% endfor %}
+                                {% else %}
+                                    <li class="list-group-item text-success">
+                                        <i class="fas fa-check-circle me-2"></i>Tidak ada nilai yang hilang dalam dataset.
+                                    </li>
+                                {% endif %}
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Form Penanganan -->
+                    <div class="card mb-4 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h4 class="card-title mb-3">
+                                <i class="fas fa-tools me-2 text-primary"></i>Pilih Metode Penanganan
+                            </h4>
+                            <form method="POST" action="{{ url_for('handle_missing', filename=filename) }}">
+                                <div class="mb-3">
+                                    <label for="method" class="form-label">Metode Penanganan Missing Values</label>
+                                    <select class="form-select" name="method" required>
+                                        <option value="drop_rows">Hapus Baris dengan Missing Values</option>
+                                        <option value="drop_columns">Hapus Kolom dengan Missing Values</option>
+                                        <option value="fill_mean">Isi dengan Nilai Rata-rata</option>
+                                        <option value="fill_median">Isi dengan Nilai Median</option>
+                                        <option value="fill_mode">Isi dengan Nilai Mode</option>
+                                    </select>
+                                </div>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-cog me-2"></i>Proses Missing Values
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <!-- Tabel Dataset -->
+                    <div class="card border-0 shadow-sm">
+                        <div class="card-header bg-secondary text-white d-flex align-items-center">
+                            <i class="fas fa-table me-3"></i>
+                            <h4 class="card-title mb-0">Dataset yang Diunggah</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-hover table-bordered table-striped" id="datasetTable">
+                                    {{ data|safe }}
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Optional: Add DataTables for better table interactions
+        if ($.fn.DataTable) {
+            $('#datasetTable').DataTable({
+                responsive: true,
+                pageLength: 10,
+                lengthMenu: [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                language: {
+                    search: "Filter data:",
+                    lengthMenu: "Tampilkan _MENU_ baris"
+                }
+            });
+        }
+    });
+</script>
+{% endblock %}

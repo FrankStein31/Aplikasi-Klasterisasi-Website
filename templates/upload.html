@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+
+{% block title %}Upload Dataset{% endblock %}
+
+{% block content %}
+
+<div style="
+    max-width: 500px; 
+    margin: 40px auto; 
+    padding: 30px; 
+    background: linear-gradient(135deg, #ffffff 0%, #f4f6f7 100%);
+    border-radius: 12px; 
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    border: 1px solid #e0e4e7;
+">
+    <div style="text-align: center; margin-bottom: 30px;">
+        <h1 style="
+            color: #2c3e50; 
+            font-weight: 600; 
+            margin-bottom: 10px;
+            font-size: 2rem;
+        ">
+            <i style="
+                color: #007bff; 
+                margin-right: 10px; 
+                vertical-align: middle;
+            " class="fas fa-cloud-upload-alt"></i>
+            Upload Dataset
+        </h1>
+        <p style="
+            color: #6c757d; 
+            font-size: 0.9rem;
+            max-width: 350px;
+            margin: 0 auto;
+        ">
+            Unggah file CSV Anda untuk memulai proses klastering
+        </p>
+    </div>
+
+    <form method="POST" action="{{ url_for('upload') }}" enctype="multipart/form-data">
+        <div style="margin-bottom: 20px;">
+            <label for="dataset" style="
+                display: block; 
+                margin-bottom: 10px; 
+                color: #495057;
+                font-weight: 600;
+            ">
+                <i style="
+                    color: #28a745; 
+                    margin-right: 8px;
+                    vertical-align: middle;
+                " class="fas fa-file-csv"></i>
+                Pilih Dataset (CSV):
+            </label>
+            <div style="
+                border: 2px dashed #007bff; 
+                border-radius: 12px; 
+                padding: 20px; 
+                text-align: center;
+                background-color: #f8f9fa;
+                position: relative;
+                overflow: hidden;
+            ">
+                <input type="file" name="dataset" 
+                    id="datasetFile"
+                    accept=".csv" 
+                    style="
+                        display: none;
+                    " 
+                    required 
+                    onchange="updateFileName(this)">
+                <button type="button" 
+                    onclick="document.getElementById('datasetFile').click();"
+                    style="
+                        background: linear-gradient(145deg, #4a90e2, #3474c7);
+                        border: none;
+                        color: white;
+                        padding: 12px 20px;
+                        border-radius: 8px;
+                        cursor: pointer;
+                        position: relative;
+                        overflow: hidden;
+                        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                        transition: all 0.3s ease;
+                        display: inline-flex;
+                        align-items: center;
+                        justify-content: center;
+                    "
+                    onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 8px rgba(0,0,0,0.15)'"
+                    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.1)'"
+                >
+                    <i style="
+                        margin-right: 10px;
+                        font-size: 1.2em;
+                    " class="fas fa-file-upload"></i>
+                    Pilih File
+                </button>
+                <p id="fileName" style="
+                    margin-top: 15px; 
+                    color: #28a745;
+                    font-size: 0.9rem;
+                    min-height: 20px;
+                    font-weight: 500;
+                "></p>
+            </div>
+        </div>
+        
+        <button type="submit" style="
+            width: 100%; 
+            padding: 15px; 
+            background: linear-gradient(145deg, #00b894, #009678);
+            color: white; 
+            border: none; 
+            border-radius: 10px; 
+            cursor: pointer;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        "
+        onmouseover="this.style.transform='translateY(-3px)'; 
+            this.style.boxShadow='0 7px 20px rgba(0,0,0,0.15)';
+            this.style.background='linear-gradient(145deg, #00d8ab, #00b894)';
+        "
+        onmouseout="this.style.transform='translateY(0)'; 
+            this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)';
+            this.style.background='linear-gradient(145deg, #00b894, #009678)';
+        "
+        onmousedown="this.style.transform='scale(0.98)'"
+        onmouseup="this.style.transform='scale(1)'"
+        >
+            <i style="margin-right: 10px; font-size: 1.2em;" class="fas fa-cloud-upload-alt"></i>
+            Upload Dataset
+        </button>
+    </form>
+</div>
+
+<script>
+function updateFileName(input) {
+    const fileName = document.getElementById('fileName');
+    if (input.files && input.files.length > 0) {
+        fileName.textContent = input.files[0].name;
+    } else {
+        fileName.textContent = '';
+    }
+}
+</script>
+{% endblock %}

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Klastering App{% endblock %}</title>
+    
+    <!-- Bootstrap CSS from CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --accent-color: #2ecc71;
+            --text-color: #333;
+            --sidebar-bg: linear-gradient(135deg, #2c3e50, #34495e);
+            --bg-light: #f4f6f7;
+        }
+
+        * {
+            transition: all 0.3s ease;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: var(--bg-light);
+            color: var(--text-color);
+        }
+
+        .custom-sidebar {
+            width: 260px;
+            height: 100vh;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background: var(--sidebar-bg);
+            color: white;
+            box-shadow: 5px 0 25px rgba(0,0,0,0.15);
+            z-index: 1040;
+            overflow-y: auto;
+        }
+
+        .sidebar-header {
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            background: rgba(0,0,0,0.1);
+        }
+
+        .sidebar-header i {
+            margin-right: 15px;
+            font-size: 1.8rem;
+            color: var(--accent-color);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        .sidebar-header h4 {
+            margin: 0;
+            font-weight: 700;
+            font-size: 1.3rem;
+            letter-spacing: 0.5px;
+        }
+
+        .sidebar-menu {
+            padding: 20px 0;
+        }
+
+        .sidebar-link {
+            color: rgba(255,255,255,0.7);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            border-left: 4px solid transparent;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .sidebar-link::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(
+                120deg, 
+                transparent, 
+                rgba(255,255,255,0.1), 
+                transparent
+            );
+            transition: all 0.4s ease;
+        }
+
+        .sidebar-link:hover::before {
+            left: 100%;
+        }
+
+        .sidebar-link i {
+            margin-right: 12px;
+            font-size: 1.2rem;
+            opacity: 0.8;
+        }
+
+        .sidebar-link:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+            border-left-color: var(--accent-color);
+        }
+
+        .sidebar-link.active {
+            background-color: rgba(255,255,255,0.15);
+            color: white;
+            border-left-color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .custom-main-content {
+            margin-left: 260px;
+            flex-grow: 1;
+            padding: 30px;
+            background-color: var(--bg-light);
+        }
+
+        .custom-footer {
+            background: var(--sidebar-bg);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
+        }
+
+        .footer-content {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .custom-sidebar {
+                width: 0;
+                visibility: hidden;
+            }
+
+            .custom-main-content {
+                margin-left: 0;
+                padding: 15px;
+            }
+        }
+
+        /* Error Modal Styling */
+        .modal-content {
+            border-radius: 10px;
+        }
+
+        .modal-header {
+            background-color: #f8d7da;
+            color: #721c24;
+            border-bottom: 1px solid #f5c6cb;
+        }
+
+        .modal-body {
+            color: #721c24;
+        }
+    </style>
+
+    {% block head %}{% endblock %}
+</head>
+
+<body>
+    <div style="display: flex; flex-grow: 1;">
+        <!-- Sidebar -->
+        <nav class="custom-sidebar">
+            <div class="sidebar-header">
+                <i class="fas fa-cubes"></i>
+                <h4>Klastering App</h4>
+            </div>
+            <ul class="sidebar-menu" style="list-style: none; padding: 0;">
+                <li>
+                    <a href="{{ url_for('upload') }}" class="sidebar-link {% if request.endpoint == 'upload' %}active{% endif %}">
+                        <i class="fas fa-cloud-upload-alt"></i>
+                        Klastering
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('visualize', filename=filename) }}" class="sidebar-link {% if request.endpoint == 'visualize' %}active{% endif %}">
+                        <i class="fas fa-chart-bar"></i>
+                        Rangkuman Data
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="custom-main-content">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="custom-footer">
+        <div class="footer-content">
+            <p style="margin: 0; font-size: 0.9rem;">
+                &copy; 2024 Klastering App | All Rights Reserved
+            </p>
+        </div>
+    </footer>
+
+    <!-- Success Modal -->
+    <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="successModalLabel">
+                        <i class="fas fa-check-circle me-2"></i>Success
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="successMessage">
+                    <!-- Success message will be dynamically inserted here -->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error Modal -->
+    <div class="modal fade" id="errorModal" tabindex="-1" aria-labelledby="errorModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="errorModalLabel">
+                        <i class="fas fa-exclamation-circle me-2"></i>Error
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="errorMessage">
+                    <!-- Error message will be dynamically inserted here -->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+
+    <!-- JavaScript for error modal -->
+    <script>
+        function showErrorModal(message) {
+            const errorMessageEl = document.getElementById('errorMessage');
+            if (errorMessageEl) {
+                errorMessageEl.textContent = message;
+                const errorModal = new bootstrap.Modal(document.getElementById('errorModal'), {});
+                errorModal.show();
+            }
+        }
+        function showSuccessModal(message) {
+            const successMessageEl = document.getElementById('errorMessage');
+            if (successMessageEl) {
+                successMessageEl.textContent = message;
+                const successModal = new bootstrap.Modal(document.getElementById('errorModal'), {});
+                successModal.show();
+            }
+        }
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                document.addEventListener('DOMContentLoaded', function() {
+                    {% for category, message in messages %}
+                        {% if category == 'error' %}
+                            showErrorModal("{{ message }}");
+                        {% elif category == 'success' %}
+                            showSuccessModal("{{ message }}");
+                        {% endif %}
+                    {% endfor %}
+                });
+            {% endif %}
+        {% endwith %}
+    </script>   
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>

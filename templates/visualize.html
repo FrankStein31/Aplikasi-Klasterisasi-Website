@@ -1,0 +1,138 @@
+{% extends "base.html" %}
+
+{% block title %}Data Visualization{% endblock %}
+
+{% block extra_css %}
+<style>
+    body {
+        background-color: #f4f6f9;
+        font-family: 'Inter', sans-serif;
+    }
+    .card-plot {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    .card-plot:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    }
+    .card-plot img {
+        object-fit: cover;
+        width: 100%;
+        height: 400px;
+    }
+    .table-stats {
+        background-color: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        overflow: hidden;
+    }
+    .table-stats thead {
+        background-color: #007bff;
+        color: white;
+    }
+    .table-stats th, .table-stats td {
+        font-size: 0.95rem;
+        text-align: center;
+        padding: 12px;
+    }
+    .table-stats th {
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .section-title {
+        color: #2c3e50;
+        border-left: 5px solid #007bff;
+        padding-left: 10px;
+        margin-bottom: 20px;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    .icon-title {
+        margin-right: 10px;
+        font-size: 1.5rem;
+        color: #007bff;
+    }
+    .text-icon {
+        color: #007bff;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid px-4 py-5">
+    <h1 class="text-center mb-5" style="color: #2c3e50;">
+        <i class="fas fa-chart-pie icon-title"></i><b> Dashboard Deskripsi Statistik dan Visualisasi Data </b>
+    </h1>
+    <div class="row mt-5">
+        <div class="col-12">
+            <h4 class="section-title">
+                <i class="fas fa-table text-icon"></i> Deskripsi Statistik
+            </h4>
+            <div class="table-responsive">
+                <table class="table table-stats table-hover">
+                    <thead>
+                        <tr>
+                            <th><i class="fas fa-columns"></i> Column</th>
+                            <th><i class="fas fa-ruler-combined"></i> Mean</th>
+                            <th><i class="fas fa-chart-line"></i> Median</th>
+                            <th><i class="fas fa-wave-square"></i> Std Dev</th>
+                            <th><i class="fas fa-arrow-down"></i> Minimum</th>
+                            <th><i class="fas fa-arrow-up"></i> Maximum</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for column in columns %}
+                            <tr>
+                                <td class="fw-bold">{{ column }}</td>
+                                <td>{{ "%.2f"|format(stats[column]['mean']) }}</td>
+                                <td>{{ "%.2f"|format(stats[column]['median']) }}</td>
+                                <td>{{ "%.2f"|format(stats[column]['std']) }}</td>
+                                <td>{{ "%.2f"|format(stats[column]['min']) }}</td>
+                                <td>{{ "%.2f"|format(stats[column]['max']) }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid px-4 py-5">
+    <div class="row">
+        <div class="col-12">
+            <h4 class="section-title">
+                <i class="fas fa-chart-area text-icon"></i> Grafik Visualisasi
+            </h4>
+            <div class="row g-4">
+                {% for plot in plots %}
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card card-plot">
+                            <img src="{{ plot }}" class="card-img-top" alt="Data Visualization Graph">
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const plotCards = document.querySelectorAll('.card-plot');
+        plotCards.forEach(card => {
+            card.addEventListener('mouseenter', function() {
+                this.style.transform = 'scale(1.02)';
+            });
+            card.addEventListener('mouseleave', function() {
+                this.style.transform = 'scale(1)';
+            });
+        });
+    });
+</script>
+{% endblock %}

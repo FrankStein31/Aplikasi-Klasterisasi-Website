@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block title %}Hasil Klasterisasi{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-primary text-white d-flex align-items-center">
+                    <i class="fas fa-chart-pie me-3"></i>
+                    <h2 class="card-title mb-0"><b>Hasil Klasterisasi</b></h2>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2">
+                            <div class="text-center mb-4">
+                                <img src="{{ cluster_path }}" class="img-fluid rounded shadow-lg" alt="Cluster Plot" style="max-height: 500px; object-fit: contain;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow-sm border-0">
+                <div class="card-header bg-success text-white d-flex align-items-center">
+                    <i class="fas fa-th-list me-3"></i>
+                    <h3 class="card-title mb-0"><b>Detail Data per Klaster</b></h3>
+                </div>
+                <div class="card-body">
+                    {% for cluster, data in cluster_data.items() %}
+                    <div class="mb-4">
+                        <div class="d-flex align-items-center mb-3">
+                            <span class="badge bg-primary me-2" style="font-size: 1rem;">Klaster {{ cluster }}</span>
+                            <small class="text-muted">{{ data.shape[0] }} data point(s)</small>
+                        </div>
+                        <div class="table-responsive">
+                            {{ data.to_html(
+                                classes='table table-hover table-bordered', 
+                                table_id='cluster-table-' + cluster|string, 
+                                index=False
+                            ) | safe }}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        {% for cluster, data in cluster_data.items() %}
+        if ($.fn.DataTable) {
+            $('#cluster-table-{{ cluster }}').DataTable({
+                pageLength: 10,
+                lengthMenu: [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                language: {
+                    search: "Filter data:",
+                    lengthMenu: "Tampilkan _MENU_ baris"
+                }
+            });
+        }
+        {% endfor %}
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,101 @@
+No.,Kode Baru,Nama Bahan Makanan,Energi,Protein,Lemak,Karbohidrat
+1,EP001,Barongko ,159,3.1,5.8,23.5
+2,EP002,Dodol nanas,338,1.5,1.2,80.3
+3,EP003,Getuk pisang,144,1.1,0.4,34.1
+4,EP004,Keripik lampung,485,1.7,22.2,69.7
+5,EP005,Ledre pisang,405,4.8,5.1,84.9
+6,EP006,Lempok durian,320,3.5,5.7,63.7
+7,EP007,Loka anjoroi,163,1.1,4.3,30.0
+8,EP008,Raca taipa,49,1.6,0.3,10.0
+9,EP009,Rujak aceh,82,0.4,0.3,19.7
+10,EP010,Sale kesemek,296,1.1,0.6,71.4
+11,EP011,Sale pisang siam,281,2.4,0.7,66.1
+12,EP012,"Sale pisang, cilacap",295,2.3,2.1,66.9
+13,EP013,Sanggara balanda,242,6.4,7.1,38.2
+14,ER001,"Alpukat, segar",85,0.9,6.5,7.7
+15,ER002,"Anggur hutan, segar",30,0.5,0.2,6.8
+16,ER003,"Apel malang, segar",57,0.5,0.4,12.8
+17,ER004,"Apel, segar",58,0.3,0.4,14.9
+18,ER005,"Arbai, segar",37,0.8,0.5,8.3
+19,ER006,"Belimbing, segar",36,0.4,0.4,8.8
+20,ER007,"Biwah, segar",51,0.3,0.1,12.1
+21,ER008,"Buah atung, segar",23,0.8,0.2,5.2
+22,ER009,"Buah kelenting, segar",110,1.4,2.1,21.4
+23,ER010,"Buah kom, segar",264,4.0,1.1,59.6
+24,ER011,"Buah mentega (Bisbul), segar",39,0.7,0.2,9.7
+25,ER012,"Buah Naga Merah, segar",71,1.7,3.1,9.1
+26,ER013,"Buah Naga Putih, segar",56,0.8,1.0,10.9
+27,ER014,"Buah negri, segar",55,1.2,0.1,12.2
+28,ER015,"Buah nona, segar",101,1.7,0.6,25.2
+29,ER016,"Buah rotan, segar",78,0.6,0.3,18.2
+30,ER017,"Buah rukam, segar",113,0.8,0.3,26.8
+31,ER018,"Buah ruruhi, segar",29,2.1,0.7,3.6
+32,ER019,"Buah tuppa, segar",67,0.4,0.2,15.9
+33,ER020,"Carica papaya, segar",24,1.9,0.2,3.7
+34,ER021,"Cempedak, segar",116,3.0,0.4,28.6
+35,ER022,"Duku, segar",63,1.0,0.2,16.1
+36,ER023,"Durian, segar",134,2.5,3.0,28.0
+37,ER024,"Duwet, segar",80,0.5,0.6,18.2
+38,ER025,"Embacang, segar",98,1.4,0.2,25.4
+39,ER026,"Encung asam, segar",122,3.5,4.5,17.5
+40,ER027,"Erbis, segar",70,0.6,0.0,18.9
+41,ER028,Gandaria masak,68,0.7,0.1,18.0
+42,ER029,"Gatep, segar",191,4.5,1.5,39.7
+43,ER030,"Jambu air, segar",46,0.6,0.2,11.8
+44,ER031,Jambu biji,49,0.9,0.3,12.2
+45,ER032,Jambu biji putih tidak berbiji,61,0.9,0.3,15.4
+46,ER033,"Jambu bol, segar",49,2.3,0.2,9.6
+47,ER034,"Jambu monyet, segar",64,0.7,0.6,15.8
+48,ER035,"Jeruk bali, segar",48,0.6,0.2,12.4
+49,ER036,"Jeruk banjar, segar",61,0.8,0.2,14.1
+50,ER037,Jeruk garut-keprok,44,0.8,0.3,10.9
+51,ER038,"Jeruk Kalamansi, segar",39,0.3,0.3,8.9
+52,ER039,"Jeruk manis, segar",45,0.9,0.2,11.2
+53,ER040,"Jeruk nipis, segar",44,0.5,0.2,10.0
+54,ER041,"Jeruk ragi, segar",49,0.7,0.2,11.1
+55,ER042,"Kawista, segar",120,3.5,2.5,20.8
+56,ER043,"Kedondong masak, segar",46,1.0,0.1,10.3
+57,ER044,"Kedondong, segar",47,0.5,0.2,10.4
+58,ER045,"Kelapa hutan, kering",623,2.0,52.1,36.5
+59,ER046,"Kelapa muda, daging, segar",68,1.0,0.9,14.0
+60,ER047,"Kemang, segar",48,1.0,0.2,11.9
+61,ER048,"Kesemek, segar",78,0.8,0.4,20.0
+62,ER049,"Kokosan, segar",86,1.6,0.2,13.0
+63,ER050,"Kranji, segar",315,2.1,1.4,73.5
+64,ER051,"Langsat, segar",56,0.9,0.2,14.3
+65,ER052,"Lemon, segar",34,0.5,0.8,6.2
+66,ER053,"Lontar, segar",27,0.4,0.2,6.0
+67,ER054,"Mangga, segar",52,0.7,0.0,12.3
+68,ER055,"Mangga benggala, segar",63,2.4,0.4,12.4
+69,ER056,"Mangga gedung, segar",44,0.7,0.2,11.2
+70,ER057,"Mangga golek, segar",63,0.5,0.2,16.7
+71,ER058,"Mangga harumanis, segar",46,0.4,0.2,11.9
+72,ER059,"Mangga indramayu, segar",72,0.8,0.2,18.7
+73,ER060,"Mangga kopek, segar",56,0.4,0.2,14.6
+74,ER061,"Mangga kwini, segar",86,0.7,0.5,19.8
+75,ER062,"Mangga manalagi, segar",133,1.0,0.1,32.1
+76,ER063,"Mangga muda, segar",59,0.5,0.4,15.1
+77,ER064,"Manggis, segar",63,0.6,0.6,15.6
+78,ER065,"Markisa, segar",144,3.5,1.2,29.8
+79,ER066,"Matoa, segar",90,1.2,0.1,21.1
+80,ER067,"Melon, segar",37,0.6,0.4,7.8
+81,ER068,"Menteng, segar",65,1.7,0.3,16.1
+82,ER069,"Nanas palembang, segar",58,0.7,0.2,13.3
+83,ER070,"Nanas, segar",40,0.6,0.3,9.9
+84,ER071,"Nangka masak pohon, segar",106,1.2,0.3,27.6
+85,ER072,"Pala, daging, segar",42,0.3,0.2,10.9
+86,ER073,"Pepaya, segar",46,0.5,12.0,12.2
+87,ER074,"Pisang ambon, segar",108,1.0,0.8,24.3
+88,ER075,"Pisang angleng (pisang ampyang), segar",68,1.3,0.2,17.2
+89,ER076,"Pisang ayam, segar",120,1.1,0.2,26.8
+90,ER077,"Pisang gapi, segar",127,2.1,0.3,31.1
+91,ER078,"Pisang goroho, segar",115,1.9,0.2,27.9
+92,ER079,"Pisang hijau, segar",117,2.0,0.3,28.9
+93,ER080,"Pisang kayu, segar",100,1.4,0.5,23.6
+94,ER081,"Pisang kepok, segar",109,0.8,0.5,26.3
+95,ER082,"Pisang ketip, segar",145,1.1,0.3,34.5
+96,ER083,"Pisang kidang, segar",96,1.0,0.2,22.5
+97,ER084,"Pisang lampung, segar",99,1.3,0.2,25.6
+98,ER085,"Pisang mas bali ampenan, segar",92,1.4,0.2,21.0
+99,ER086,"Pisang mas bali kopang, segar",127,1.4,0.2,31.8
+100,ER087,"Pisang mas, segar",127,1.4,0.2,33.6

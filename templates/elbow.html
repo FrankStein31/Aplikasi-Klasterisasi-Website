@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+
+{% block title %}Grafik Elbow{% endblock %}
+
+{% block content %}
+<div style="
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: calc(100vh - 120px); 
+    background-color: #f4f6f9; 
+    padding: 20px;
+">
+    <div style="
+        background-color: white; 
+        border-radius: 15px; 
+        box-shadow: 0 15px 35px rgba(0,0,0,0.1); 
+        padding: 30px; 
+        width: 100%; 
+        max-width: 900px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    ">
+        <h1 style="
+            color: #2c3e50; 
+            font-weight: 700; 
+            margin-bottom: 20px; 
+            text-align: center;
+            position: relative;
+            padding-bottom: 10px;
+        ">
+            <i class="fas fa-chart-line me-2 text-primary" style="color: #4a90e2;"></i>
+            Grafik Elbow untuk Clustering
+        </h1>
+
+        <img src="{{ elbow_path }}" style="
+            max-width: 100%; 
+            height: auto; 
+            border-radius: 10px; 
+            margin-bottom: 20px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+        " alt="Elbow Plot">
+
+        <div style="
+            background-color: #4a90e2;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 6px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            display: inline-block;
+        ">
+            Saran Jumlah Klaster Optimal: {{ optimal_k }}
+        </div>
+
+        <form method="POST" action="{{ url_for('clustering', filename=filename) }}" style="width: 100%; max-width: 500px;">
+            <div style="margin-bottom: 20px;">
+                <label class="form-label">Jumlah Klaster (k):</label>
+                <input type="number" name="k" value="{{ optimal_k }}" class="form-control" min="1" required style="
+                    border-color: #4a90e2;
+                    focus-border-color: #357abd;
+                ">
+            </div>
+
+            <div style="text-align: center; margin-bottom: 20px;">
+                <label class="form-label">Pilih Kolom untuk Klastering:</label>
+                <div style="
+                    display: flex; 
+                    flex-wrap: wrap; 
+                    justify-content: center; 
+                    gap: 10px;
+                ">
+                    {% for column in columns %}
+                    <div style="display: flex; align-items: center; margin-right: 15px;">
+                        <input 
+                            type="checkbox" 
+                            name="selected_columns" 
+                            value="{{ column }}" 
+                            {% if column in selected_columns %} checked {% endif %}
+                            style="margin-right: 5px; accent-color: #4a90e2;"
+                        >
+                        <label>{{ column }}</label>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div style="text-align: center;">
+                <button type="submit" style="
+                    background-color: #4a90e2;
+                    color: white;
+                    border: none;
+                    padding: 10px 20px;
+                    border-radius: 8px;
+                    font-weight: 600;
+                    transition: all 0.3s ease;
+                    box-shadow: 0 4px 10px rgba(74,144,226,0.3);
+                    cursor: pointer;
+                ">
+                    <i class="fas fa-chart-pie me-2"></i>Lakukan Clustering
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}

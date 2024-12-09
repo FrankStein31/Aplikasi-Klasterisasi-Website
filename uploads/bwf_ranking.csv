@@ -1,0 +1,1696 @@
+rank,country_code,player,points,tournaments,confederation,country
+1,DEN,Viktor Axelsen,108056,14,Europe,Denmark
+2,MAS,Lee Zii Jia,79468,15,Asia,Malaysia
+3,SGP,Loh Kean Yew,77394,18,Asia,Singapore
+4,INA,Jonatan Christie,75812,17,Asia,Indonesia
+5,INA,Anthony Sinisuka Ginting,75749,16,Asia,Indonesia
+6,TPE,Chou Tien Chen,75466,16,Asia,Chinese Taipei
+7,IND,Lakshya Sen,65794,15,Asia,India
+8,IND,Prannoy H. S.,64880,18,Asia,India
+9,JPN,Kodai Naraoka,64640,15,Asia,Japan
+10,THA,Kunlavut Vitidsarn,59679,13,Asia,Thailand
+11,CHN,Lu Guang Zu,59110,18,Asia,China
+12,IND,Kidambi Srikanth,57801,16,Asia,India
+13,CHN,Zhao Jun Peng,55901,16,Asia,China
+14,HKG,Lee Cheuk Yiu,51531,16,Asia,Hong Kong China
+15,HKG,Ng Ka Long Angus,48627,14,Asia,Hong Kong China
+16,DEN,Rasmus Gemke,48621,10,Europe,Denmark
+17,JPN,Kenta Nishimoto,47769,14,Asia,Japan
+18,JPN,Kento Momota,47454,10,Asia,Japan
+19,DEN,Anders Antonsen,47033,8,Europe,Denmark
+20,TPE,Wang Tzu Wei,46226,13,Asia,Chinese Taipei
+21,CAN,Brian Yang,45610,17,Pan America,Canada
+22,CHN,Li Shi Feng,44353,14,Asia,China
+23,JPN,Kanta Tsuneyama,44128,11,Asia,Japan
+24,INA,Chico Aura Dwi Wardoyo,44118,14,Asia,Indonesia
+25,IRL,Nhat Nguyen,44019,19,Europe,Ireland
+26,FRA,Toma Junior Popov,42723,14,Europe,France
+27,INA,Shesar Hiren Rhustavito,42393,14,Asia,Indonesia
+28,MAS,Ng Tze Yong,42314,15,Asia,Malaysia
+29,CHN,Weng Hong Yang,41893,11,Asia,China
+30,THA,Kantaphon Wangcharoen,39522,17,Asia,Thailand
+31,THA,Sitthikom Thammasin,38926,17,Asia,Thailand
+32,MAS,Liew Daren,37639,15,Asia,Malaysia
+33,NED,Mark Caljouw,37070,16,Europe,Netherlands
+34,DEN,Hans-Kristian Solberg Vittinghus,36492,14,Europe,Denmark
+35,IND,Mithun Manjunath,35941,12,Asia,India
+36,CHN,Shi Yu Qi,35230,6,Asia,China
+37,FRA,Arnaud Merkle,34073,15,Europe,France
+38,TPE,Lin Chun-Yi,34030,12,Asia,Chinese Taipei
+39,ISR,Misha Zilberman,33704,14,Europe,Israel
+40,KOR,Heo Kwang Hee,33675,14,Asia,Korea
+41,GUA,Kevin Cordon,32787,10,Pan America,Guatemala
+42,FRA,Christo Popov,31280,13,Europe,France
+43,IND,Sameer Verma,30560,11,Asia,India
+44,FRA,Brice Leverdez,30370,14,Europe,France
+45,IND,Kiran George,30067,15,Asia,India
+46,JPN,Koki Watanabe,30020,11,Asia,Japan
+47,MAS,Soong Joo Ven,29280,14,Asia,Malaysia
+48,MAS,Cheam June Wei,29200,19,Asia,Malaysia
+49,BRA,Ygor Coelho,28169,14,Pan America,Brazil
+50,IND,Priyanshu Rajawat,28086,12,Asia,India
+51,ESP,Luís Enrique Peñalver,26843,13,Europe,Spain
+52,DEN,Victor Svendsen,26840,14,Europe,Denmark
+53,FRA,Lucas Claerbout,26410,14,Europe,France
+54,TPE,Chia Hao Lee,25710,17,Asia,Chinese Taipei
+55,IND,Sai Praneeth B.,25660,13,Asia,India
+56,FIN,Kalle Koljonen,25101,13,Europe,Finland
+57,GER,Kai Schaefer,24662,16,Europe,Germany
+58,IND,Meiraba Luwang Maisnam,24570,16,Asia,India
+59,CZE,Jan Louda,24150,14,Europe,Czech Republic
+60,DEN,Mads Christophersen,23950,12,Europe,Denmark
+61,CAN,Jason Anthony Ho-Shue,23567,10,Pan America,Canada
+62,IND,Parupalli Kashyap,23430,8,Asia,India
+63,INA,Tommy Sugiarto,23000,10,Asia,Indonesia
+64,ESA,Uriel Francisco Canjura Artiga,22900,11,Pan America,El Salvador
+65,FRA,Alex Lanier,22715,12,Europe,France
+66,SWE,Felix Burestedt,22545,14,Europe,Sweden
+67,DEN,Magnus Johannesen,22520,16,Europe,Denmark
+68,AZE,Ade Resky Dwicahyo,21960,18,Europe,Azerbaijan
+69,UKR,Danylo Bosniuk,21828,18,Europe,Ukraine
+70,IND,Kartikey Gulshan Kumar,21500,14,Asia,India
+71,SGP,Jia Heng Jason Teh,21409,18,Asia,Singapore
+72,JPN,Riku Hatano,21304,13,Asia,Japan
+73,KOR,Jeon Hyeok Jin,20999,9,Asia,Korea
+74,MAS,Leong Jun Hao,20967,12,Asia,Malaysia
+75,TPE,Chi Yu Jen,20910,16,Asia,Chinese Taipei
+76,BRA,Jonathan Matias,20655,12,Pan America,Brazil
+77,FRA,Thomas Rouxel,20310,8,Europe,France
+78,TPE,Lu Chia Hung,20209,16,Asia,Chinese Taipei
+79,DEN,Kim Bruun,20160,9,Europe,Denmark
+80,BEL,Julien Carraggi,20088,18,Europe,Belgium
+81,INA,Ikhsan Leonardo Imanuel Rumbay,20041,10,Asia,Indonesia
+82,JPN,Minoru Koga,19640,9,Asia,Japan
+83,INA,Christian Adinata,19511,9,Asia,Indonesia
+84,TPE,Su Li Yang,19320,16,Asia,Chinese Taipei
+85,AUT,Luka Wraber,18903,18,Europe,Austria
+86,GER,Max Weisskirchen,18480,10,Europe,Germany
+87,KOR,Son Wan Ho,18340,5,Asia,Korea
+88,POR,Bernardo Atilano,18238,13,Europe,Portugal
+89,ESP,Pablo Abian,17930,14,Europe,Spain
+90,NED,Joran Kweekel,17903,12,Europe,Netherlands
+91,JPN,Yushi Tanaka,17730,9,Asia,Japan
+92,MAS,Yeoh Seng Zoe,17700,12,Asia,Malaysia
+93,ENG,Toby Penty,17622,8,Europe,England
+94,ITA,Giovanni Toti,17522,17,Europe,Italy
+95,MAS,Sholeh Aidil,17387,13,Asia,Malaysia
+96,IND,Sathish Kumar Karunakaran,17280,13,Asia,India
+97,IND,Chirag Sen,16890,15,Asia,India
+98,IND,Subhankar Dey,16480,13,Asia,India
+99,IND,S.Sankar Muthusamy Subramanian,16320,19,Asia,India
+100,IND,Harshit Aggarwal,16180,14,Asia,India
+101,TPE,Chen Chi Ting,16150,13,Asia,Chinese Taipei
+102,MEX,Job Castillo,16084,10,Pan America,Mexico
+103,MEX,Lino Munoz,16078,10,Pan America,Mexico
+104,CHN,Sun Fei Xiang,16000,9,Asia,China
+105,ITA,Fabio Caponio,15815,16,Europe,Italy
+106,SVK,Milan Dratva,15750,20,Europe,Slovakia
+107,THA,Khosit Phetpradab,15269,5,Asia,Thailand
+108,HKG,Chan Yin Chak,15183,11,Asia,Hong Kong China
+109,IND,Rahul Yadav Chittaboina,15060,11,Asia,India
+110,EGY,Adham Hatem Elgamal,15029,12,Africa,Egypt
+111,GER,Fabian Roth,15000,15,Europe,Germany
+112,SUI,Tobias Kuenzi,14877,14,Europe,Switzerland
+113,IND,Sourabh Verma,14630,6,Asia,India
+114,USA,Howard Shu,14338,11,Pan America,U.S.A.
+115,BUL,Daniel Nikolov,14093,13,Europe,Bulgaria
+116,GER,Samuel Hsiao,14085,18,Europe,Germany
+117,JPN,Takuma Obayashi,14000,5,Asia,Japan
+118,MAS,Kok Jing Hong,13978,13,Asia,Malaysia
+119,BRA,Donnians Oliveira,13672,7,Pan America,Brazil
+120,CHN,Lei Lan Xi,13650,6,Asia,China
+121,ALG,Youcef Sabri Medel,13491,11,Africa,Algeria
+122,IND,Ansal Yadav,13410,11,Asia,India
+123,MAS,Ong Ken Yon,13160,11,Asia,Malaysia
+124,JOR,Bahaedeen Ahmad Alshannik,13080,8,Asia,Jordan
+125,MAS,Lee Shun Yang,12990,11,Asia,Malaysia
+126,THA,Adulrach Namkul,12892,7,Asia,Thailand
+127,NGR,Anuoluwapo Juwon Opeyori,12850,8,Africa,Nigeria
+128,INA,Syabda Perkasa Belawa,12680,9,Asia,Indonesia
+129,JPN,Koo Takahashi,12675,9,Asia,Japan
+130,KAZ,Dmitriy Panarin,12560,14,Asia,Kazakhstan
+131,SGP,Jia Wei Joel Koh,11892,14,Asia,Singapore
+132,IND,Kaushal Dharmamer,11870,8,Asia,India
+133,INA,Alwi Farhan,11860,10,Asia,Indonesia
+134,ITA,Christopher Vittoriani,11850,10,Europe,Italy
+135,USA,Justin Ma,11620,12,Pan America,U.S.A.
+136,IND,Alap Mishra,11390,13,Asia,India
+137,IND,Abhishek Yeligar,11390,10,Asia,India
+138,KOR,Kim Donghun,11360,5,Asia,Korea
+139,IND,Siril Verma,11250,13,Asia,India
+140,FRA,Enogat Roy,11160,17,Europe,France
+141,USA,Enrico Asuncion,11039,12,Pan America,U.S.A.
+142,TPE,Lin Kuan-Ting,10950,11,Asia,Chinese Taipei
+143,IND,Raghu Mariswamy,10630,10,Asia,India
+144,CAN,B. R. Sankeerth,10512,7,Pan America,Canada
+145,IND,Tharun Mannepalli,10490,12,Asia,India
+146,FIN,Joakim Oldorff,10476,16,Europe,Finland
+147,DEN,Ditlev Jaeger Holm,10450,8,Europe,Denmark
+148,MEX,Luis Armando Montoya Navarro,10444,10,Pan America,Mexico
+149,JPN,Koshiro Moriguchi,10432,10,Asia,Japan
+150,IND,Aryamann Tandon,10310,8,Asia,India
+151,IND,Kiran Kumar Mekala,10230,12,Asia,India
+152,RUS,Sergey Sirant,10190,3,Europe,Russia
+153,SLO,Miha Ivanič,10080,15,Europe,Slovenia
+154,MAS,Lim Chong King,9780,9,Asia,Malaysia
+155,VIE,Tien Minh Nguyen,9660,5,Asia,Vietnam
+156,SRI,Viren Nettasinghe,9640,9,Asia,Sri Lanka
+157,BEL,Elias Bracke,9490,17,Europe,Belgium
+158,IND,Siddharth Pratap Singh,9440,9,Asia,India
+159,ENG,Rohan Midha,9430,18,Europe,England
+160,AUS,Nathan Tang,9300,5,Oceania,Australia
+161,IND,Siddhanth Gupta,9210,11,Asia,India
+162,INA,Andi Fadel Muhammad,9140,7,Asia,Indonesia
+163,CAN,Victor Lai,8987,10,Pan America,Canada
+164,SRI,Niluka Karunaratne,8930,6,Asia,Sri Lanka
+165,TPE,Liao Jhuo-Fu,8909,9,Asia,Chinese Taipei
+166,INA,Bobby Setiabudi,8700,8,Asia,Indonesia
+167,THA,Panitchaphon Teeraratsakul,8645,10,Asia,Thailand
+168,UGA,Brian Kasirye,8503,8,Africa,Uganda
+169,NED,Aram Mahmoud,8430,8,Europe,Netherlands
+170,FRA,Valentin Singer,8400,16,Europe,France
+171,THA,Korakrit Laotrakul,8350,13,Asia,Thailand
+172,MAS,Justin Hoh,8320,4,Asia,Malaysia
+173,DEN,Jeppe Bruun,8250,13,Europe,Denmark
+174,MLT,Matthew Abela,8240,13,Europe,Malta
+175,ALG,Adel Hamek,8234,12,Africa,Algeria
+176,PER,Adriano Viale Aguirre,8147,10,Pan America,Peru
+177,IND,Anirudh Janardhanan,8100,13,Asia,India
+178,DEN,Karan Rajan Rajarajan,8060,11,Europe,Denmark
+179,CAN,Xiaodong Sheng,8030,8,Pan America,Canada
+180,VIE,Nguyen Hai Dang,7990,7,Asia,Vietnam
+181,AUT,Wolfgang Gnedt,7979,14,Europe,Austria
+182,HUN,Gergo Pytel,7962,10,Europe,Hungary
+183,KOR,Lee Dong Keun,7810,5,Asia,Korea
+184,GUA,Ruben Castellanos,7738,6,Pan America,Guatemala
+185,MEX,Armando Gaitan Fausto,7661,7,Pan America,Mexico
+186,MAS,Ong Zhen Yi,7580,6,Asia,Malaysia
+187,INA,Iqbal Diaz Syahputra,7570,5,Asia,Indonesia
+188,IND,Rithvik Sanjeevi Satish Kumar,7490,9,Asia,India
+189,ENG,Johnnie Torjussen,7411,10,Europe,England
+190,IRL,Jonathan Dolan,7410,9,Europe,Ireland
+191,SUI,Julien Scheiwiller,7400,12,Europe,Switzerland
+192,GER,Matthias Kicklitz,7378,14,Europe,Germany
+193,ZAM,Kalombo Mulenga,7280,9,Africa,Zambia
+194,FRA,Grégoire Deschamp,7260,13,Europe,France
+195,CZE,Jiří Král,7240,13,Europe,Czech Republic
+196,TPE,Liu Wei Chi,7200,6,Asia,Chinese Taipei
+197,ESP,Carlos Piris,7150,10,Europe,Spain
+198,MAS,Shahyar Shaqeem,7090,9,Asia,Malaysia
+199,AUT,Collins Valentine Filimon,7070,9,Europe,Austria
+200,IND,Abhyansh Singh,7000,9,Asia,India
+201,SUI,Joel König,6980,16,Europe,Switzerland
+202,TPE,Yang Chih Chieh,6930,6,Asia,Chinese Taipei
+203,ALG,Koceila Mammeri,6903,8,Africa,Algeria
+204,MRI,Georges Julien Paul,6860,6,Africa,Mauritius
+205,GER,Kian-Yu Oei,6770,17,Europe,Germany
+206,NZL,Edward Lau,6760,4,Oceania,New Zealand
+207,IND,Farogh Sanjay Aman,6710,15,Asia,India
+208,RSA,Robert Summers,6682,7,Africa,South Africa
+209,USA,Mark Shelley Alcala,6570,9,Pan America,U.S.A.
+210,JPN,Riki Takei,6520,3,Asia,Japan
+211,INA,Yohanes Saut Marcellyno,6510,6,Asia,Indonesia
+212,USA,Don Henley Averia,6496,6,Pan America,U.S.A.
+213,FIN,Iikka Heino,6470,10,Europe,Finland
+214,AUS,Adam Dolman,6460,10,Oceania,Australia
+215,GER,Brian Holtschke,6450,12,Europe,Germany
+216,INA,Sulistio Tegar,6430,8,Asia,Indonesia
+217,INA,Alfito Pringgo Yudanto,6350,6,Asia,Indonesia
+218,DEN,Martin Bundgaard,6340,8,Europe,Denmark
+219,MAS,Eveshgaran Vasigaran,6300,7,Asia,Malaysia
+220,EST,Karl Kert,6276,17,Europe,Estonia
+221,NOR,Markus Barth,6274,11,Europe,Norway
+222,MAS,Chua Kim Sheng,6270,6,Asia,Malaysia
+223,INA,Panji Ahmad Maulana,6270,4,Asia,Indonesia
+224,BRA,Artur Silva Pomoceno,6250,3,Pan America,Brazil
+225,FRA,Sacha Leveque,6180,15,Europe,France
+226,BRA,Davi Silva,6180,5,Pan America,Brazil
+227,IND,Varun Kapur,6170,9,Asia,India
+228,JPN,Shota Omoto,6160,4,Asia,Japan
+229,FIN,Joonas Korhonen,6080,11,Europe,Finland
+230,INA,Alvi Wijaya Chairullah,6020,5,Asia,Indonesia
+231,INA,Bodhi Ratana Teja Gotama,6000,8,Asia,Indonesia
+232,DEN,Victor Ørding Kauffmann,6000,6,Europe,Denmark
+233,AUS,Jacob Schueler,5920,5,Oceania,Australia
+234,JPN,Yu Igarashi,5920,3,Asia,Japan
+235,INA,Krishna Adi Nugraha,5900,5,Asia,Indonesia
+236,ENG,Cholan Kayan,5878,14,Europe,England
+237,BUL,Dimitar Yanakiev,5850,11,Europe,Bulgaria
+238,INA,Yonathan Ramlie,5823,9,Asia,Indonesia
+239,IND,Pranav Rao Gandham,5770,9,Asia,India
+240,FRA,Amaury Lievre,5730,11,Europe,France
+241,NZL,Abhinav Manota,5700,3,Oceania,New Zealand
+242,CHN,Liu Liang,5680,4,Asia,China
+243,KOR,Cho Geonyeop,5620,3,Asia,Korea
+244,INA,Muhammad Sultan Nurhabibullah Mayang,5600,6,Asia,Indonesia
+245,TPE,Yang Yang,5590,10,Asia,Chinese Taipei
+246,TUR,Emre Lale,5580,5,Europe,Türkiye
+247,UKR,Oleksandar Shmundyak,5560,11,Europe,Ukraine
+248,IND,Arunesh Hari,5560,9,Asia,India
+249,AUS,Jie Ying Chan,5550,4,Oceania,Australia
+250,INA,Muhammad Reza Al Fajri,5410,4,Asia,Indonesia
+251,KOR,Lee Yun Gyu,5395,4,Asia,Korea
+252,NZL,Ricky Cheng,5360,5,Oceania,New Zealand
+253,TPE,Chang Shih-Chieh,5330,4,Asia,Chinese Taipei
+254,SRI,Dumindu Abeywickrama,5280,9,Asia,Sri Lanka
+255,SWE,Albin Carl Hjelm,5260,10,Europe,Sweden
+256,IND,Hemanth M.Gowda,5210,7,Asia,India
+257,HKG,Jason Gunawan,5180,7,Asia,Hong Kong China
+258,IND,Ravi Ravi,5120,6,Asia,India
+259,CAN,Imran Wadia,5100,7,Pan America,Canada
+260,EGY,Ahmed Salah,5025,4,Africa,Egypt
+261,ALG,Mohamed Abderrahime Belarbi,5022,11,Africa,Algeria
+262,MAS,Chia Jeng Hon,4950,6,Asia,Malaysia
+263,TPE,Kuo Kuan Lin,4940,4,Asia,Chinese Taipei
+264,MAS,Tan Jia Jie,4900,9,Asia,Malaysia
+265,IND,Harsheel Dani,4890,8,Asia,India
+266,USA,Garret Tan,4860,9,Pan America,U.S.A.
+267,MAS,Hooi Shao Herng,4840,7,Asia,Malaysia
+268,SRI,Rasindu Hendahewa,4820,11,Asia,Sri Lanka
+269,ESP,Alvaro Leal,4820,10,Europe,Spain
+270,JPN,Keita Makino,4770,2,Asia,Japan
+271,POL,Mateusz Danielak,4710,14,Europe,Poland
+272,BUL,Ivan Rusev,4700,11,Europe,Bulgaria
+273,FRA,Yanis Gaudin,4680,9,Europe,France
+274,ESP,Ernesto Baschwitz,4650,11,Europe,Spain
+275,PER,Jose Guevara,4632,8,Pan America,Peru
+276,MAS,Yap Juin An,4610,7,Asia,Malaysia
+277,UKR,Viacheslav Yakovlev,4600,10,Europe,Ukraine
+278,CRO,Luka Ban,4600,8,Europe,Croatia
+279,SGP,Ming Hong Lim,4492,8,Asia,Singapore
+280,POL,Michal Rogalski,4480,3,Europe,Poland
+281,TPE,Lin Yu Hsien,4430,4,Asia,Chinese Taipei
+282,SUI,Nicolas A. Mueller,4410,12,Europe,Switzerland
+283,KOR,Jung Min Seon,4393,4,Asia,Korea
+284,MAS,M Atef Haikal Taufik,4380,7,Asia,Malaysia
+285,SRI,Buwaneka Goonethilleka,4380,5,Asia,Sri Lanka
+286,IND,Aditya Joshi,4320,2,Asia,India
+287,AUS,Athi Selladurai,4280,6,Oceania,Australia
+288,IND,Tarun Reddy Katam,4270,5,Asia,India
+289,MAS,Lim Chi Wing,4270,3,Asia,Malaysia
+290,RSA,Caden Kakora,4258,7,Africa,South Africa
+291,ESA,Javier Armando Alas,4250,6,Pan America,El Salvador
+292,TPE,Huang Yu Kai,4250,5,Asia,Chinese Taipei
+293,FRA,Martin Ouazzen,4240,11,Europe,France
+294,SWE,Gustav Bjorkler,4230,9,Europe,Sweden
+295,RUS,Georgii Karpov,4190,3,Europe,Russia
+296,MRI,Jean Bernard Bongout,4158,6,Africa,Mauritius
+297,EGY,Mohamed Mostafa Kamel,4125,4,Africa,Egypt
+298,INA,Firman Abdul Kholik,4100,3,Asia,Indonesia
+299,POR,Bruno Carvalho,4080,16,Europe,Portugal
+300,FRA,Leo Van Gysel,4080,10,Europe,France
+301,AUS,Pit Seng Low,4080,5,Oceania,Australia
+302,FRA,Tino Daoudal,4060,10,Europe,France
+303,AUS,Keith Mark Edison,3990,7,Oceania,Australia
+304,BRA,Deivid Silva,3970,5,Pan America,Brazil
+305,BRN,Adnan Ebrahim,3930,7,Asia,Bahrain
+306,KOR,Park Sang Yong,3880,3,Asia,Korea
+307,SWE,Jacob Nilsson,3820,5,Europe,Sweden
+308,DEN,Mads Juel Møller,3780,9,Europe,Denmark
+309,AUS,Ephraim Stephen Sam,3760,4,Oceania,Australia
+310,CAN,Kevin Barkman,3750,11,Pan America,Canada
+311,VIE,Le Duc Phat,3740,7,Asia,Vietnam
+312,ARG,Santiago Otero,3720,4,Pan America,Argentina
+312,TPE,Wang Po-Wei,3720,4,Asia,Chinese Taipei
+314,JPN,Keisuke Fujiwara,3720,2,Asia,Japan
+315,NZL,Oscar Guo,3710,3,Oceania,New Zealand
+316,BEL,Maxime Moreels,3700,3,Europe,Belgium
+317,MYA,Phone Pyae Naing,3690,5,Asia,Myanmar
+318,GUA,Yeison Esleiter Del Cid Alvarez,3690,4,Pan America,Guatemala
+319,JPN,Hikaru Minegishi,3670,3,Asia,Japan
+320,MRI,Aatish Lubah,3665,4,Africa,Mauritius
+321,RSA,Robert White,3662,5,Africa,South Africa
+322,CAN,John Li,3660,9,Pan America,Canada
+323,IND,Dhruv Kumar,3620,10,Asia,India
+324,PYF,Remi Rossi,3590,9,Oceania,Tahiti
+325,CHN,Wang Zheng Xing,3580,3,Asia,China
+326,AUS,Kai Chen Teoh,3560,5,Oceania,Australia
+327,INA,Jason Christ Alexander,3550,5,Asia,Indonesia
+328,USA,Saketh Upadhya,3520,6,Pan America,U.S.A.
+329,MAS,Ming Yap Too,3510,6,Asia,Malaysia
+330,POR,Duarte Nuno Anjo,3490,5,Europe,Portugal
+331,IND,Shreyansh Jaiswal,3490,4,Asia,India
+331,IND,Jagadeesh Kalaga,3490,4,Asia,India
+333,CRO,Filip Spoljarec,3450,9,Europe,Croatia
+334,ARG,Nicolas Oliva,3420,5,Pan America,Argentina
+335,IND,B.M.Rahul Bharadwaj,3400,5,Asia,India
+336,ENG,Heng Lin Ngan,3370,10,Europe,England
+337,IND,Sai Charan Koya,3370,9,Asia,India
+338,AUS,Ying Xiang Lin,3370,3,Oceania,Australia
+339,IND,Kartik Jindal,3360,3,Asia,India
+340,DEN,Axel Henrik Parkhøi,3350,7,Europe,Denmark
+341,TTO,Nicholas Bonkowsky,3350,6,Pan America,Trinidad & Tobago
+342,MAS,Teh Jin Hong,3320,11,Asia,Malaysia
+343,TPE,Lu Wei Hsuan,3310,4,Asia,Chinese Taipei
+344,IND,Tukum Laa,3300,4,Asia,India
+345,MRI,Melvin Appiah,3275,5,Africa,Mauritius
+346,POL,Mikolaj Szymanowski,3261,10,Europe,Poland
+347,JAM,Samuel O’Brien Ricketts,3240,4,Pan America,Jamaica
+348,ENG,Larry Pong,3240,3,Europe,England
+349,SLO,Andraz Krapez,3230,13,Europe,Slovenia
+350,MLT,Samuel Cassar,3210,12,Europe,Malta
+351,DEN,Mads Thøgersen,3200,7,Europe,Denmark
+352,TPE,Wu Cheng-En,3200,4,Asia,Chinese Taipei
+353,HKG,Wong Wing Ki Vincent,3200,1,Asia,Hong Kong China
+354,IND,Abhishek Saini,3190,4,Asia,India
+355,IND,Talar Laa,3170,3,Asia,India
+356,IND,Arya Bhivpathaki,3160,4,Asia,India
+357,NED,Dennis Koppen,3150,11,Europe,Netherlands
+358,INA,Henrikho Kho Wibowo,3150,8,Asia,Indonesia
+359,VEN,Manuel Estefano Quijada Moreno,3140,3,Pan America,Venezuela
+360,IND,Saneeth Dayanand Shimoga,3080,5,Asia,India
+361,SLO,Miha Ivančič,3060,15,Europe,Slovenia
+362,IND,Naren Shankar Iyer,3040,7,Asia,India
+363,USA,Adrian King-Sun Mar,3030,2,Pan America,U.S.A.
+364,UKR,Ivan Medynskiy,2980,7,Europe,Ukraine
+365,IND,Pranay Katta,2970,4,Asia,India
+366,NED,Finn Achthoven,2920,14,Europe,Netherlands
+367,MGL,Batdavaa Munkhbat,2920,8,Asia,Mongolia
+368,IND,Balraj Kajla,2920,3,Asia,India
+369,EGY,Abdelrahman Abdelhakim,2891,6,Africa,Egypt
+370,AUS,Jack Yu,2890,2,Oceania,Australia
+371,IND,Bhargav S,2880,5,Asia,India
+372,UGA,Daniel Wanagaliya,2842,3,Africa,Uganda
+373,CAN,Jackson Yang,2830,4,Pan America,Canada
+374,KOR,Kim Joo Wan,2823,4,Asia,Korea
+375,RUS,Vladimir Malkov,2820,2,Europe,Russia
+376,USA,Sheng Lyu,2810,6,Pan America,U.S.A.
+377,TPE,Chen Shao-Hsuan,2770,5,Asia,Chinese Taipei
+378,CAN,Wong Yan Kit,2760,9,Pan America,Canada
+379,THA,Woraphop Chuenkha,2750,4,Asia,Thailand
+380,GUY,Narayan Ramdhani,2750,1,Pan America,Guyana
+381,IND,Ajay Satish Kumar Nair,2730,5,Asia,India
+382,MAS,Kreetik Kreetik,2700,10,Asia,Malaysia
+383,SWE,Johan Azelius,2700,7,Europe,Sweden
+384,IND,Siddharath Thakur,2680,7,Asia,India
+385,IND,Bhawesh Pandey,2660,3,Asia,India
+386,MDV,Hussein Zayan Shaheed Zaki,2650,9,Asia,Maldives
+387,MAS,Eogene Ewe,2640,3,Asia,Malaysia
+388,GER,Aaron Sonnenschein,2630,11,Europe,Germany
+389,EGY,Ali Ahmed El Khateeb,2620,9,Africa,Egypt
+390,CHN,Liu Hai Chao,2620,2,Asia,China
+391,RSA,Ruan Snyman,2606,3,Africa,South Africa
+392,SGP,Lim Shun Tian,2600,5,Asia,Singapore
+393,DEN,David Kim,2600,4,Europe,Denmark
+393,AUS,Rio Agustino,2600,4,Oceania,Australia
+395,SCO,Callum Smith,2584,6,Europe,Scotland
+396,GER,Camilo Borst,2580,8,Europe,Germany
+397,POL,Dominik Kwinta,2548,7,Europe,Poland
+398,FRA,Rafael Gavois,2540,9,Europe,France
+399,VIE,Le Manh An Tran,2530,3,Asia,Vietnam
+400,CAN,Nathan Appave,2470,2,Pan America,Canada
+401,ESA,Manuel Mejia,2460,5,Pan America,El Salvador
+401,ESA,Kennet Suria,2460,5,Pan America,El Salvador
+403,THA,Varot Uraiwong,2450,8,Asia,Thailand
+404,BEN,Oswald Ash Fano-Dosh,2449,3,Africa,Benin
+405,JPN,Takuma Kawamoto,2440,2,Asia,Japan
+406,BUL,Iliyan Stoynov,2420,10,Europe,Bulgaria
+407,SGP,Lau Jun Hui Marcus,2410,5,Asia,Singapore
+408,IND,Aditya Gupta,2410,4,Asia,India
+409,TPE,Ting Yen-Chen,2410,2,Asia,Chinese Taipei
+410,RUS,Georgii Lebedev,2400,3,Europe,Russia
+411,MDV,Ahmed Nibal,2390,6,Asia,Maldives
+412,EST,Ragnar Sepp,2360,9,Europe,Estonia
+413,DEN,Marcus Viscovich,2360,5,Europe,Denmark
+414,CAN,Lai Yin Chung,2340,3,Pan America,Canada
+415,IND,Kanishq M,2330,7,Asia,India
+416,ZIM,Thabani Mathe,2330,5,Africa,Zimbabwe
+417,POL,Maksymilian Danielak,2320,9,Europe,Poland
+418,UGA,Friday Attama,2306,3,Africa,Uganda
+419,SWE,Ludvig Petre Olsson,2290,14,Europe,Sweden
+420,BRA,Gabriel Cury,2290,2,Pan America,Brazil
+421,SWE,Shaun Ekengren,2240,11,Europe,Sweden
+422,AUS,Peter Yan,2240,3,Oceania,Australia
+423,IND,Ajay Jayaram,2220,1,Asia,India
+423,KOR,Choi Ji Hoon,2220,1,Asia,Korea
+425,CAN,Kan Chao Yu,2210,2,Pan America,Canada
+426,TPE,Huang Yu,2200,4,Asia,Chinese Taipei
+427,IND,Bodhit Joshi,2200,3,Asia,India
+427,DOM,Yonatan Linarez,2200,3,Pan America,Dominican Republic
+427,CAN,Anton Menzel,2200,3,Pan America,Canada
+430,SWE,Richard Kuhl,2180,11,Europe,Sweden
+431,GUA,José Daniel Ochoa,2180,3,Pan America,Guatemala
+432,GUA,Christopher Alexander Martinez Salvador,2166,3,Pan America,Guatemala
+433,BAR,Kennie King,2150,4,Pan America,Barbados
+434,IND,Vishal Vasudevan,2120,6,Asia,India
+435,INA,Muhammad Febriansyah,2100,7,Asia,Indonesia
+436,AZE,Azmy Qowimuramadhoni,2100,5,Europe,Azerbaijan
+437,USA,Kelvin Chong,2100,4,Pan America,U.S.A.
+438,AUS,Milain Lohith Ranasinghe,2090,3,Oceania,Australia
+438,MAS,Mohamad Haris Sufian Rushdan,2090,3,Asia,Malaysia
+440,POL,Lukasz Cimosz,2060,10,Europe,Poland
+441,CRC,Gianpiero Cavallotti,2030,4,Pan America,Costa Rica
+442,ENG,Harry Huang,2010,3,Europe,England
+442,MEX,Rodrigo Morales,2010,3,Pan America,Mexico
+444,SWE,Filip Karlborg,1990,14,Europe,Sweden
+445,TPE,Cheng-Han Tsai,1980,3,Asia,Chinese Taipei
+446,ZIM,Ashel Dziva,1970,4,Africa,Zimbabwe
+447,CAN,Ramnish Kumar,1960,6,Pan America,Canada
+448,INA,Alden Lefilson Putra Mainaky,1940,7,Asia,Indonesia
+448,USA,Aaron Bai,1940,7,Pan America,U.S.A.
+450,TPE,Shih Kuan-Chih,1940,3,Asia,Chinese Taipei
+451,INA,Mikael Dwi Putra,1930,4,Asia,Indonesia
+452,TPE,Hsu Yu-Han,1920,2,Asia,Chinese Taipei
+453,MRI,Tejraj Pultoo,1910,5,Africa,Mauritius
+454,ESA,José Alejandro Orellana,1910,4,Pan America,El Salvador
+455,IND,Eshwar Sukumar,1890,4,Asia,India
+456,FRA,Simon Baron-Vezilier,1880,6,Europe,France
+457,AZE,Dicky Dwi Pangestu,1880,3,Europe,Azerbaijan
+458,ESA,Carlos Rodriguez,1880,2,Pan America,El Salvador
+458,IND,Shubham Patel,1880,2,Asia,India
+458,REU,Assing Aaron,1880,2,Africa,Ligue Nouvelle Badminton REUNION
+461,USA,Jacob Zhang,1870,5,Pan America,U.S.A.
+462,GUA,Ramiro Alonso Espinoza,1870,4,Pan America,Guatemala
+463,NOR,Danila Gataullin,1860,10,Europe,Norway
+464,UKR,Oleksii Titov,1860,6,Europe,Ukraine
+465,IND,Arjun Rehani,1860,3,Asia,India
+466,AUS,Julian Mao Lun Lee,1850,4,Oceania,Australia
+466,AUS,Ken Richardson,1850,4,Oceania,Australia
+468,UKR,Danylo Skrynnik,1840,10,Europe,Ukraine
+469,MEX,Luis Ramon Garrido,1840,2,Pan America,Mexico
+469,COL,Miguel Quirama,1840,2,Pan America,Colombia
+469,IND,Lakshay Sharma,1840,2,Asia,India
+472,MAS,Mohamad Hafiz Mohamed Sikkander,1830,6,Asia,Malaysia
+473,ISR,May Bar Netzer,1820,3,Europe,Israel
+474,AUS,Brent Guo,1800,5,Oceania,Australia
+475,MYA,Zaw Lin Htoo,1790,4,Asia,Myanmar
+476,DOM,Angel Argenis Marinez Ulloa,1760,3,Pan America,Dominican Republic
+477,CMR,Michel Henri Assembe,1757,4,Africa,Cameroon
+478,USA,Sri Kolla,1750,4,Pan America,U.S.A.
+479,PHI,Ros Leonard Pedrosa,1750,2,Asia,Philippines
+480,ALG,Sifeddine Larbaoui,1740,4,Africa,Algeria
+481,FRA,Thomas Fourcade,1730,7,Europe,France
+482,THA,Teerapat Kleawan,1730,5,Asia,Thailand
+483,USA,William Hu,1705,5,Pan America,U.S.A.
+484,TPE,Hung Chun Chung,1700,1,Asia,Chinese Taipei
+484,JPN,Yuta Kikuchi,1700,1,Asia,Japan
+486,IND,Kavin Thangam Kavin,1690,5,Asia,India
+487,UGA,Amos Muyanja,1690,2,Africa,Uganda
+488,FRA,Yohan Barbieri,1680,11,Europe,France
+489,USA,Kevin Shi,1680,3,Pan America,U.S.A.
+490,TPE,Yu Sheng Po,1670,1,Asia,Chinese Taipei
+490,JAM,Mickhaile Williams,1670,1,Pan America,Jamaica
+490,GUY,Akili Haynes,1670,1,Pan America,Guyana
+490,KOR,Lee Suk Chan,1670,1,Asia,Korea
+490,KOR,Yoo Tae Bin,1670,1,Asia,Korea
+495,PHI,Jewel Angelo Albo,1660,4,Asia,Philippines
+496,ESP,Joan Monroy,1650,4,Europe,Spain
+497,CAN,Kevin Shi,1650,2,Pan America,Canada
+498,KAZ,Artur Niyazov,1643,5,Asia,Kazakhstan
+499,MEX,Gerardo Saavedra,1640,3,Pan America,Mexico
+499,THA,Adisak Prasertphetmanee,1640,3,Asia,Thailand
+501,FRA,Louis Ducrot,1620,9,Europe,France
+502,IND,Nikhit Laxman,1610,7,Asia,India
+502,UKR,Mykhailo Vyshnevyi,1610,7,Europe,Ukraine
+504,VIE,Tien Tuan Nguyen,1610,3,Asia,Vietnam
+505,INA,Classius Chris Belandro,1600,5,Asia,Indonesia
+506,PAR,Leo Lee,1590,6,Pan America,Paraguay
+507,UGA,Kenneth Comfort Mwambu,1590,5,Africa,Uganda
+508,INA,Paul James Simanjuntak,1590,4,Asia,Indonesia
+509,AUS,Xing Huong Goh,1580,2,Oceania,Australia
+510,ZAM,Mwanza Edward,1576,3,Africa,Zambia
+511,IND,Vaibhav B.S.,1550,4,Asia,India
+512,MAS,Micaiah Jien Zheng Chai,1530,8,Asia,Malaysia
+513,MAS,Lim Hong Zhe,1520,5,Asia,Malaysia
+514,IND,Orijit Chaliha,1520,4,Asia,India
+515,USA,Victor Lai,1520,2,Pan America,U.S.A.
+516,AUS,Anthony Joe,1520,1,Oceania,Australia
+516,NZL,Abhilash Sharma,1520,1,Oceania,New Zealand
+516,BOT,Kethabanetswe Godknows,1520,1,Africa,Botswana
+516,FRA,Samson Gradt-Urban,1520,1,Europe,France
+516,IRI,Nima Rostampourlagaldani,1520,1,Asia,Iran
+516,IRI,Saleh Sangtarash,1520,1,Asia,Iran
+516,IND,Kiran Balaji,1520,1,Asia,India
+523,IND,Gagan Balyan,1510,5,Asia,India
+524,MAS,Choo Kai Qing,1490,6,Asia,Malaysia
+524,IND,Astitva Kale,1490,6,Asia,India
+526,THA,Saran Jamsri,1490,3,Asia,Thailand
+526,AUS,Gavin Kyjac Ong,1490,3,Oceania,Australia
+526,AUS,Jayden Lim,1490,3,Oceania,Australia
+526,AUS,Shrey Dhand,1490,3,Oceania,Australia
+526,NZL,Bevan Cox,1490,3,Oceania,New Zealand
+531,ENG,Neil Bhabuta,1470,11,Europe,England
+532,SRB,Luka Milic,1470,2,Europe,Serbia
+533,UKR,Andrei Don,1460,8,Europe,Ukraine
+534,BEL,Charles Fouyn,1460,7,Europe,Belgium
+535,MAS,Khabilan Siva,1460,3,Asia,Malaysia
+536,MAS,Lim Hong Xuan,1450,5,Asia,Malaysia
+537,MEX,Jorge Rodriguez,1440,3,Pan America,Mexico
+538,MDA,Cristian Savin,1430,4,Europe,Moldova
+539,LUX,Jerome Pauquet,1428,7,Europe,Luxembourg
+540,RUS,Daniil Dubovenko,1410,2,Europe,Russia
+541,DEN,Jonas Jæger,1400,5,Europe,Denmark
+542,IND,Shashwat Dalal,1400,4,Asia,India
+543,FRA,Guilhem Hoyaux,1400,3,Europe,France
+544,FRA,Romain Frank,1370,5,Europe,France
+545,IND,Manigandan Rajasekaran,1370,4,Asia,India
+546,EST,Raul Must,1370,1,Europe,Estonia
+546,DEN,Rasmus Messerschmidt,1370,1,Europe,Denmark
+546,BRA,Willian Guimaraes,1370,1,Pan America,Brazil
+546,AUS,Ricky Tang,1370,1,Oceania,Australia
+546,BRA,Waleson Vinicios Evangalista Dos Santos,1370,1,Pan America,Brazil
+551,ISR,Maxim Grinblat,1350,8,Europe,Israel
+552,RSA,Cameron Coetzer,1320,1,Africa,South Africa
+553,MAS,Dickon Khoo,1320,7,Asia,Malaysia
+554,ZIM,Dean Matyanga,1310,3,Africa,Zimbabwe
+554,UGA,Abdul Swaburuh Ssempiri,1310,3,Africa,Uganda
+556,USA,Timothy Lam,1300,1,Pan America,U.S.A.
+557,CAN,Eugene Chan,1290,1,Pan America,Canada
+558,CZE,Dominik Kopřiva,1280,10,Europe,Czech Republic
+559,NZL,Joshua Feng,1280,2,Oceania,New Zealand
+559,MAS,Low Eu Cong,1280,2,Asia,Malaysia
+559,MEX,Angel Martinez,1280,2,Pan America,Mexico
+559,INA,Prahdiska Bagas Shujiwo,1280,2,Asia,Indonesia
+563,ITA,Enrico Baroni,1270,6,Europe,Italy
+564,ZAM,Timothy Kafunda,1270,2,Africa,Zambia
+564,ALG,Mohamed Abdelaziz Ouchefoun,1270,2,Africa,Algeria
+564,GUA,Jonathan Molineros Ochoa,1270,2,Pan America,Guatemala
+567,ITA,Luca Zhou,1260,6,Europe,Italy
+568,IND,Rohan Gurbani,1250,4,Asia,India
+569,INA,Denish Ganesha,1240,5,Asia,Indonesia
+570,LTU,Danielius Berzanskis,1230,6,Europe,Lithuania
+571,RUS,Artur Pechenkin,1230,3,Europe,Russia
+572,GRE,Stamatis Tsigirdakis,1230,2,Europe,Greece
+573,ENG,Sid Palakkal,1225,10,Europe,England
+574,ESA,Edward Suria,1210,4,Pan America,El Salvador
+574,CRC,Marco Castillo,1210,4,Pan America,Costa Rica
+576,SUR,Soren Opti,1200,3,Pan America,Suriname
+576,MAS,Aaron Kai Bin Kok,1200,3,Asia,Malaysia
+578,SRB,Dragoslav Petrovic,1190,4,Europe,Serbia
+579,MAS,Jan Jireh Lee,1190,3,Asia,Malaysia
+580,TPE,An Chi Chen,1170,1,Asia,Chinese Taipei
+581,BEN,Preferet Adomahou,1160,3,Africa,Benin
+582,SGP,Tan Rui Yang Ryan,1140,5,Asia,Singapore
+583,SUI,Soen Rimmer,1130,2,Europe,Switzerland
+583,AUS,Jordan Yang,1130,2,Oceania,Australia
+585,IND,Rohith Mariswamy,1120,5,Asia,India
+586,MAS,Muhammad Naim Ahmad Fairuzly,1120,3,Asia,Malaysia
+587,IND,Harsh Arora,1100,5,Asia,India
+588,ESP,Alejandro Alcala,1100,2,Europe,Spain
+588,CMR,Gilles Francis Donguitsop,1100,2,Africa,Cameroon
+588,GUA,Estuardo Del Valle Leisbeth,1100,2,Pan America,Guatemala
+591,ITA,Tonni Zhou,1090,11,Europe,Italy
+592,DEN,Magnus Klinggaard,1090,4,Europe,Denmark
+592,FRA,Paul Tournefier,1090,4,Europe,France
+594,UGA,Paul Makande,1090,2,Africa,Uganda
+594,IND,Surya Kiran Reddy Dundi,1090,2,Asia,India
+594,BAN,Md Nazmul Islam Joy,1090,2,Asia,Bangladesh
+597,CAN,Eason Wong,1080,3,Pan America,Canada
+598,CZE,Jan Janoštík,1070,8,Europe,Czech Republic
+599,EGY,Mahmoud Montaser Montaser Mahmoud Ahmed,1070,4,Africa,Egypt
+600,TUR,Nurullah Saraç,1060,3,Europe,Türkiye
+601,VIE,Van Mai Nguyen,1060,2,Asia,Vietnam
+602,DEN,Rasmus Careø Christensen,1050,9,Europe,Denmark
+603,ZAM,Marvin Chisela,1050,3,Africa,Zambia
+604,AZE,Muhammad Khadafi Amri,1040,3,Europe,Azerbaijan
+605,CMR,Félix Michel Kemene Atangana,1037,2,Africa,Cameroon
+606,INA,Yehezkiel Fritz Mainaky,1030,4,Asia,Indonesia
+607,LTU,Jonas Petkus,1027,4,Europe,Lithuania
+608,ENG,Ben Hammond,1020,8,Europe,England
+609,NED,Noah Haase,1020,4,Europe,Netherlands
+610,IND,Dhruv Rawat,1020,2,Asia,India
+610,MAS,Dylan Ooi,1020,2,Asia,Malaysia
+612,USA,Trevor Tan,1010,5,Pan America,U.S.A.
+613,BEN,Carlos Miguel Codjo Kpanou,1010,3,Africa,Benin
+614,REU,Nanicaoudin Loic Antoine,1000,3,Africa,Ligue Nouvelle Badminton REUNION
+615,AUT,Kai Niederhuber,990,8,Europe,Austria
+616,DEN,Christian Faust Kjær,990,6,Europe,Denmark
+617,BEN,Carlos Charles Ahouangassi,990,3,Africa,Benin
+617,DEN,Jacob Hjorth,990,3,Europe,Denmark
+619,IND,Aakash Alok,990,2,Asia,India
+620,NOR,Jorgen Rosenlund,970,4,Europe,Norway
+621,IND,Sankalp Chandragurala,960,4,Asia,India
+622,SRI,Dinuka Karunaratne,950,2,Asia,Sri Lanka
+622,ZAM,Bwalya Chanda,950,2,Africa,Zambia
+624,UKR,Glib Beketov,940,2,Europe,Ukraine
+625,POL,Andrzej Niczyporuk,930,7,Europe,Poland
+626,ESP,Alberto Perals,930,5,Europe,Spain
+626,THA,Puritat Arree,930,5,Asia,Thailand
+628,AUS,Thomas Zi Xuan Ng,930,3,Oceania,Australia
+628,USA,Linden Wang,930,3,Pan America,U.S.A.
+628,THA,Tanawat Yimjit,930,3,Asia,Thailand
+631,ENG,Nadeem Dalvi,920,5,Europe,England
+632,DEN,Jakob Godt,920,3,Europe,Denmark
+633,AZE,Orkhan Galandarov,920,1,Europe,Azerbaijan
+633,KOR,Yim Seung Ki,920,1,Asia,Korea
+633,CUB,Leodannis Martinez Palacio,920,1,Pan America,Cuba
+633,GUA,Jose Espnoza,920,1,Pan America,Guatemala
+633,BRA,Alisson Vasconcellos,920,1,Pan America,Brazil
+633,KOR,Lee Seung Hoon,920,1,Asia,Korea
+633,IRI,Amir Jabbari,920,1,Asia,Iran
+633,UKR,Mykhaylo Makhnovskiy,920,1,Europe,Ukraine
+633,NZL,Douglas Shephard,920,1,Oceania,New Zealand
+633,BRA,Rafael Faria,920,1,Pan America,Brazil
+633,TUR,Yusuf Yaşar,920,1,Europe,Türkiye
+633,IRI,Alireza Karami,920,1,Asia,Iran
+633,BRA,Joao Marcos Moreira,920,1,Pan America,Brazil
+633,KOR,Kim Hyun Kyu,920,1,Asia,Korea
+633,MOZ,Idrisse Issofo Mossagy,920,1,Africa,Mozambique
+633,NGR,Philip Afolabi,920,1,Africa,Nigeria
+633,UKR,Ivan Druzchenko,920,1,Europe,Ukraine
+633,UKR,Igor Kalinichenko,920,1,Europe,Ukraine
+633,MDV,Mohamed Aakif,920,1,Asia,Maldives
+633,IRI,Ali Hayati,920,1,Asia,Iran
+633,IRQ,Yousif Alhumairi,920,1,Asia,Iraq
+633,IRI,Saied Babayani,920,1,Asia,Iran
+633,IRI,Mohammad Setareh Ghotbabadi,920,1,Asia,Iran
+633,IRI,Mohammadreza Qeysari,920,1,Asia,Iran
+633,AUS,Marcus Kong,920,1,Oceania,Australia
+633,CRO,Aria Dinata,920,1,Europe,Croatia
+633,IND,Rohan Thool,920,1,Asia,India
+633,UKR,Vitaliy Reva,920,1,Europe,Ukraine
+633,BRA,Klerton Zaidan De Carvalho Silva,920,1,Pan America,Brazil
+633,BRA,Fernando Da Costa Vieira Junior,920,1,Pan America,Brazil
+633,CAN,Ivan Li,920,1,Pan America,Canada
+633,IRI,Sina Salari,920,1,Asia,Iran
+633,IRI,Mohammadamin Moghadam,920,1,Asia,Iran
+633,IRI,Mehdi Rezaei,920,1,Asia,Iran
+633,MGL,Altanhuyag Tamir,920,1,Asia,Mongolia
+633,BRA,Pedro Mendonça,920,1,Pan America,Brazil
+633,BRA,João Mendonça Taveira,920,1,Pan America,Brazil
+633,INA,Moh. Zaki Ubaidillah,920,1,Asia,Indonesia
+633,IND,Darshan Pujari,920,1,Asia,India
+633,NZL,Dylan Chan,920,1,Oceania,New Zealand
+633,NZL,Philipp Doehrn,920,1,Oceania,New Zealand
+633,JPN,Sora Ogaki,920,1,Asia,Japan
+633,NGR,Nusa Momoh,920,1,Africa,Nigeria
+633,CAN,Michael Ji,920,1,Pan America,Canada
+633,CAN,Kevin Wang,920,1,Pan America,Canada
+633,CAN,Timothy Lock,920,1,Pan America,Canada
+633,SGP,Remus Ng,920,1,Asia,Singapore
+680,MDV,Mohamed Ajfan Rasheed,910,5,Asia,Maldives
+681,CMR,Antoine Eddy Owona Ndimako,910,3,Africa,Cameroon
+682,MAS,Tai Chuan Zhe,910,2,Asia,Malaysia
+682,AUS,Raphael Lydra,910,2,Oceania,Australia
+684,BEL,Yaro Van Delsen,900,9,Europe,Belgium
+685,GUA,Raul Anguiano,900,2,Pan America,Guatemala
+685,MEX,Andres Quadri,900,2,Pan America,Mexico
+685,GUA,Eddy Garcia,900,2,Pan America,Guatemala
+685,EGY,Ezzat Kareem,900,2,Africa,Egypt
+685,GUA,Diego Trujillo Marrero,900,2,Pan America,Guatemala
+685,GUA,Alejandro Garcia Garcia,900,2,Pan America,Guatemala
+685,GUA,Diego Garcia Garcia,900,2,Pan America,Guatemala
+685,GUA,Andy Rodrigo Ferguharson Alfaro,900,2,Pan America,Guatemala
+685,ESA,Melvin Calzadilla,900,2,Pan America,El Salvador
+694,GER,Christopher Klauer,890,4,Europe,Germany
+695,MRI,Khemtish Rai Nundah,890,3,Africa,Mauritius
+696,MAS,Par Tien Ann,880,4,Asia,Malaysia
+697,ISL,Kari Gunnarsson,880,1,Europe,Iceland
+698,BEL,Senne Houthoofd,870,11,Europe,Belgium
+699,FRA,Arthur Wakhevitsch,870,7,Europe,France
+700,UGA,Fred Kirabo,870,3,Africa,Uganda
+700,MEX,Alvaro Rio,870,3,Pan America,Mexico
+702,CAN,Johnathan Akin-Mulrooney,870,2,Pan America,Canada
+702,CAN,Philip Mak,870,2,Pan America,Canada
+702,CAN,Jett Ko,870,2,Pan America,Canada
+702,CAN,Nicky Yemin Aung,870,2,Pan America,Canada
+702,CAN,Amit Kshatriya,870,2,Pan America,Canada
+702,CAN,Kiren Milan Deraj,870,2,Pan America,Canada
+708,IND,Ayush Raj Gupta,850,5,Asia,India
+709,MAS,Velayutham Poopathi,850,3,Asia,Malaysia
+710,MAS,Muhammad Ammar Rusyaidi Razif,840,4,Asia,Malaysia
+711,KSA,Nawaf Alghamdi,820,9,Asia,SAUDI ARABIA
+712,KSA,Muath Alghamdi,820,7,Asia,SAUDI ARABIA
+713,AZE,Jahid Alhasanov,820,5,Europe,Azerbaijan
+714,IND,Saharsh Mohan,820,4,Asia,India
+715,MEX,Arturo Angel Salazar,810,3,Pan America,Mexico
+716,GUA,Dario Alejandro Tul Teo,810,2,Pan America,Guatemala
+716,EGY,Ziad Hesham,810,2,Africa,Egypt
+718,IND,Shamanth Rao Kidiyoor,790,3,Asia,India
+718,IND,Rhitvik Mohanty,790,3,Asia,India
+720,SCO,James Robertson,780,8,Europe,Scotland
+721,REU,Chan Fung Ting Xavier,771,3,Africa,Ligue Nouvelle Badminton REUNION
+722,IND,Jayant Rana,770,5,Asia,India
+723,MDV,Thoif Ahmed Mohamed,770,4,Asia,Maldives
+723,MAS,Muhammad Affan Ahmad Atabek,770,4,Asia,Malaysia
+725,ESA,Victor Garcia,760,2,Pan America,El Salvador
+725,DOM,Daniel Antonio Acosta Hilario,760,2,Pan America,Dominican Republic
+725,DOM,Ernick Zorrilla,760,2,Pan America,Dominican Republic
+725,CRC,Rafael Mora,760,2,Pan America,Costa Rica
+729,CYP,Iakovos Acheriotis,740,4,Europe,Cyprus
+729,DEN,Jakob Houe,740,4,Europe,Denmark
+731,ENG,Kar Lung Chun,740,3,Europe,England
+732,MAS,Teh Zi Yi,730,3,Asia,Malaysia
+733,ZAM,Mwansa Rodrick,730,2,Africa,Zambia
+734,CYP,Christos Hailis,720,7,Europe,Cyprus
+735,REU,Gregory Grondin,720,3,Africa,Ligue Nouvelle Badminton REUNION
+736,NZL,Daxxon Vong,720,2,Oceania,New Zealand
+736,MEX,Sebastian Martinez Cardoso,720,2,Pan America,Mexico
+736,IND,Swarnaraj Bora,720,2,Asia,India
+736,VIE,Thu Thao Nguyen,720,2,Asia,Vietnam
+736,MEX,Nestor Israel González Gómez,720,2,Pan America,Mexico
+736,MEX,Juan Torres,720,2,Pan America,Mexico
+736,NZL,Ephraim Van Der Ley,720,2,Oceania,New Zealand
+736,AUS,Chauncey Yu,720,2,Oceania,Australia
+736,VIE,Quoc Khanh Tran,720,2,Asia,Vietnam
+736,VIE,Dinh Hoang Nguyen,720,2,Asia,Vietnam
+736,VIE,Phuc Thinh Phan,720,2,Asia,Vietnam
+747,BOT,Cedwyn Mosweu,710,2,Africa,Botswana
+748,ROU,Teodor Ioan Cioroboiu,700,3,Europe,Romania
+749,ENG,Oswald Fung,680,3,Europe,England
+750,CAN,Christopher Weibe,680,2,Pan America,Canada
+750,CAN,Anthony Wong,680,2,Pan America,Canada
+752,IND,Yash Yogi,670,4,Asia,India
+753,MAS,Muhammad Izzuddin Shamsul Muzli,670,3,Asia,Malaysia
+753,INA,Abdul Karim Hidayat,670,3,Asia,Indonesia
+755,UGA,Abed Bukenya,670,2,Africa,Uganda
+756,NED,Robin Mesman,660,11,Europe,Netherlands
+757,SCO,Danny Robson,660,6,Europe,Scotland
+758,PER,Daniel La Torre Regal,660,1,Pan America,Peru
+758,COL,Enrique Rodriguez,660,1,Pan America,Colombia
+758,DOM,Anthony Ortiz,660,1,Pan America,Dominican Republic
+758,GUY,Tyrese Jeffrey,660,1,Pan America,Guyana
+758,VEN,Frank Barrios,660,1,Pan America,Venezuela
+758,BAR,Dave Forde,660,1,Pan America,Barbados
+758,AUS,Ferry Kurniawan,660,1,Oceania,Australia
+765,SGP,Meng Jin Basile Koh,650,4,Asia,Singapore
+766,ZAM,Chongo Ezra Mulenga,650,3,Africa,Zambia
+767,VIE,Thuan Kim,650,2,Asia,Vietnam
+767,ESA,Marlon Adonay Mancia Vides,650,2,Pan America,El Salvador
+767,VIE,Trung Tin Tran,650,2,Asia,Vietnam
+767,VIE,Hai Dang Vu,650,2,Asia,Vietnam
+767,VIE,Viet Khang Nguyen,650,2,Asia,Vietnam
+767,VIE,Dinh Manh Tran,650,2,Asia,Vietnam
+773,CAN,Henry Paynter,620,3,Pan America,Canada
+774,ISR,Amir Shapira,620,2,Europe,Israel
+775,ENG,Adarsh Palani Kumar,610,5,Europe,England
+776,MAS,Ze Xi Sean Ngu,610,4,Asia,Malaysia
+777,MAS,Samuel Lee,610,3,Asia,Malaysia
+778,MDV,Ibrahim Ali Haisham,600,3,Asia,Maldives
+779,TPE,Chen Cheng Yu,600,2,Asia,Chinese Taipei
+779,TPE,Yi Liu,600,2,Asia,Chinese Taipei
+779,TPE,Ma Cheng-Yi,600,2,Asia,Chinese Taipei
+782,NGR,Mustaopha Muhammed,600,1,Africa,Nigeria
+782,ZAM,Kalonde Charles,600,1,Africa,Zambia
+782,ZAM,Martin Kangwa,600,1,Africa,Zambia
+782,MEX,Sebastian De La Torre,600,1,Pan America,Mexico
+782,BUR,Ousmane Ouedraogo,600,1,Africa,BUR Burkina Faso
+782,BOT,Taolo Kareng,600,1,Africa,Botswana
+782,ZAM,Gilbert Mwiya,600,1,Africa,Zambia
+782,NGR,Emmanuel Olusegun Ogunsanwo,600,1,Africa,Nigeria
+782,NGR,Khalil Safana Shamsuddeen,600,1,Africa,Nigeria
+782,NGR,Saddam Sidi Rufai,600,1,Africa,Nigeria
+782,ZAM,Wesley Kafunda,600,1,Africa,Zambia
+782,NOR,Jonas Østhassel,600,1,Europe,Norway
+782,MEX,Pedro Martinez,600,1,Pan America,Mexico
+782,USA,Prashant Harish,600,1,Pan America,U.S.A.
+782,BEN,Fadh Arogoun,600,1,Africa,Benin
+782,DEN,Anders Junker,600,1,Europe,Denmark
+782,TUR,Orcun Ozturk,600,1,Europe,Türkiye
+782,ISR,Mayan Mogilner,600,1,Europe,Israel
+782,ISR,Rotem Siluk,600,1,Europe,Israel
+782,ZAM,Surya Ganesh,600,1,Africa,Zambia
+782,TPE,Yu Liang Chang,600,1,Asia,Chinese Taipei
+782,TPE,Li Chi Chen,600,1,Asia,Chinese Taipei
+782,RSA,Phillip Amwata,600,1,Africa,South Africa
+782,TPE,Yu Che Liu,600,1,Asia,Chinese Taipei
+806,GER,Justin Seibel,590,9,Europe,Germany
+807,DEN,Alexander Pedersen,590,6,Europe,Denmark
+808,MAS,Ng Jun Yan,590,3,Asia,Malaysia
+809,ISR,Idan Schneidman,580,5,Europe,Israel
+810,IND,Sai Vishnu Pullela,580,2,Asia,India
+811,SLO,Gal Bizjak,570,11,Europe,Slovenia
+812,BEL,Iljo Van Delsen,570,8,Europe,Belgium
+813,IND,Gandhar Nawale,570,4,Asia,India
+814,IRI,Mehran Shahbazi,570,2,Asia,Iran
+814,INA,Karono Karono,570,2,Asia,Indonesia
+814,MAS,Zhao Jie Stanley Chiong,570,2,Asia,Malaysia
+814,AUS,Vincent Nguyen,570,2,Oceania,Australia
+814,AUS,Takeru Kai,570,2,Oceania,Australia
+814,AUT,Armin Sarosi,570,2,Europe,Austria
+814,AUS,William Sayaphet,570,2,Oceania,Australia
+814,USA,Nicholas Chiu,570,2,Pan America,U.S.A.
+814,NZL,Chris Benzie,570,2,Oceania,New Zealand
+814,IND,Umang Kaushik,570,2,Asia,India
+814,IND,Amal Sanjai Mayadevi,570,2,Asia,India
+825,WAL,Archie Bult,560,9,Europe,Wales
+826,SCO,Ciar Pringle,560,4,Europe,Scotland
+827,ESP,Mihir Palande,550,6,Europe,Spain
+828,UKR,Oleg Amosov,550,5,Europe,Ukraine
+829,CUB,Osleni Guerrero,550,1,Pan America,Cuba
+829,DOM,William Cabrera,550,1,Pan America,Dominican Republic
+829,AUS,Hoe Keat Oon,550,1,Oceania,Australia
+829,BRA,Mateus Carrijo Cutti,550,1,Pan America,Brazil
+829,NGR,Godwin Olofua,550,1,Africa,Nigeria
+829,CHI,Alonso Medel,550,1,Pan America,Chile
+829,USA,Humberto Aguirre Fajardo,550,1,Pan America,U.S.A.
+829,GUA,Jose Luis Granados Morales,550,1,Pan America,Guatemala
+829,KOR,Young Min Kim,550,1,Asia,Korea
+829,ESP,Alvaro Vazquez,550,1,Europe,Spain
+829,DEN,Søren Hald,550,1,Europe,Denmark
+829,CMR,Felix Dureil Nkonomo Bengono,550,1,Africa,Cameroon
+829,MEX,Salvador Sanchez,550,1,Pan America,Mexico
+829,BRA,Marcelo Bosa Oliveira,550,1,Pan America,Brazil
+829,BAR,Gavin Robinson,550,1,Pan America,Barbados
+829,GUA,Raul Eduardo Anguiano,550,1,Pan America,Guatemala
+829,ESA,Ariel Marenco,550,1,Pan America,El Salvador
+829,MEX,Oliver Sánchez Lopez,550,1,Pan America,Mexico
+829,MEX,Andres Hernandez Rosas,550,1,Pan America,Mexico
+829,PER,Saul Andrade Yanque,550,1,Pan America,Peru
+829,BRA,Caio Henrique Da Silva,550,1,Pan America,Brazil
+829,BRA,Paulo Teodoro Alves Feitosa,550,1,Pan America,Brazil
+829,BRA,Welton Menezes,550,1,Pan America,Brazil
+829,BRA,Frank Henrique De Sousa Magalhaes,550,1,Pan America,Brazil
+829,BRA,Marcos Ryan Santos Sousa,550,1,Pan America,Brazil
+829,BRA,Luan Rios Silva,550,1,Pan America,Brazil
+829,BRA,Jonatas Da Silva Carvalho,550,1,Pan America,Brazil
+829,FRA,Hadrien Harand,550,1,Europe,France
+829,CMR,Hamadou Bappa Abdouraman,550,1,Africa,Cameroon
+829,CMR,Pascal Nolem,550,1,Africa,Cameroon
+829,CAF,Bernard Heritier Ndaba,550,1,Africa,CENTRAL AFRICAN Republic
+829,BRA,Yanni Moretti,550,1,Pan America,Brazil
+829,AUS,Jun Zong Kayson Goh,550,1,Oceania,Australia
+829,NZL,Jaden Mingoa,550,1,Oceania,New Zealand
+829,AUS,Dion Binod,550,1,Oceania,Australia
+829,VEN,Keiber Alberto Peñalver Rivas,550,1,Pan America,Venezuela
+829,PER,Kalei Kuan-Veng,550,1,Pan America,Peru
+829,KOR,Choi Pyeong Kang,550,1,Asia,Korea
+867,BUL,Peyo Boichinov,540,3,Europe,Bulgaria
+868,SLO,Jaka Ivančič,530,7,Europe,Slovenia
+869,POL,Krzysztof Jakowczuk,530,4,Europe,Poland
+870,IND,Siddhant Salar,530,2,Asia,India
+870,IND,Vashu Frashwal,530,2,Asia,India
+870,AUS,Manoj Rajkumar,530,2,Oceania,Australia
+873,UGA,Guna Kusal Dhulupudi,520,2,Africa,Uganda
+874,TLS,Raymond Sing,510,4,Asia,East Timor
+874,IND,Rishabh Deshpande,510,4,Asia,India
+876,IND,Gurusaidutt R. M. V.,510,1,Asia,India
+876,CAN,Daniel Zhou,510,1,Pan America,Canada
+876,CAN,Ryan Rankin,510,1,Pan America,Canada
+876,CAN,Archangelo Ouano,510,1,Pan America,Canada
+876,CAN,Paul Ouano,510,1,Pan America,Canada
+876,VIE,Thanh Dat Bui,510,1,Asia,Vietnam
+882,PER,Brian Rodrigo Roque Caycho,502,1,Pan America,Peru
+883,IND,Munawar Mohammed,500,3,Asia,India
+884,ENG,Raymond Webster,490,8,Europe,England
+885,MRI,Vaishnav Russeean,490,3,Africa,Mauritius
+886,ZIM,Prince Mateme,490,2,Africa,Zimbabwe
+886,AUS,Emmanuel Stephen Sam,490,2,Oceania,Australia
+888,AUT,Michael Tomic,480,10,Europe,Austria
+889,ENG,Zack Bobrowski,480,8,Europe,England
+890,AUT,Dominik Stipsits,480,6,Europe,Austria
+891,MAS,Muhammad Alif Ahmad Fairuzly,480,3,Asia,Malaysia
+891,MAS,Gagan Jit Singh Maan,480,3,Asia,Malaysia
+893,POR,Gabriel Rodrigues,470,6,Europe,Portugal
+894,SRB,Borko Petrovic,470,3,Europe,Serbia
+895,CAN,Josh Nguyen,468,2,Pan America,Canada
+896,KAZ,Khaitmurat Kulmatov,466,1,Asia,Kazakhstan
+897,MAS,Lim Yik Fong,460,2,Asia,Malaysia
+897,IND,Sabreeshwaran Haribaskaran,460,2,Asia,India
+897,MAS,Muhammad Ikmal Aizat Mohd Ishak,460,2,Asia,Malaysia
+897,NZL,Isaac Chan,460,2,Oceania,New Zealand
+901,MEX,Jonathan Esquivel Vargas,450,2,Pan America,Mexico
+902,CZE,David Smutný,430,8,Europe,Czech Republic
+903,HUN,Balazs Papai,430,6,Europe,Hungary
+904,MDV,Rishwan Shiyam,430,2,Asia,Maldives
+904,BAN,Khandokar Abdus Soad,430,2,Asia,Bangladesh
+906,AZE,Agil Gabilov,420,4,Europe,Azerbaijan
+907,CAN,Andrew Zhuang,420,2,Pan America,Canada
+908,MDA,Nicolai Condratiuc,410,9,Europe,Moldova
+909,IND,Jaiditya Pratap Singh,410,4,Asia,India
+910,IND,Harivignesh Shunmugam Pillai Ravichandran,410,3,Asia,India
+910,IND,Shishir Dwivedi,410,3,Asia,India
+910,IND,Rajan Yadav,410,3,Asia,India
+913,UKR,Ivan Tsaregorotsev,400,3,Europe,Ukraine
+914,UKR,Mykola Shkliaiev,400,2,Europe,Ukraine
+915,GER,Felix Hammes,380,3,Europe,Germany
+916,SYR,Aljallad Ahmad,380,2,Asia,Syrian Arab Republic
+916,CAN,Kevin Lee,380,2,Pan America,Canada
+916,BAR,Shae Michael Martin,380,2,Pan America,Barbados
+916,MEX,Cesar Franco Murgia,380,2,Pan America,Mexico
+916,MAS,Matthew Shankar Teoh,380,2,Asia,Malaysia
+916,MEX,Carlos Jaramillo,380,2,Pan America,Mexico
+916,MAS,"Darrell, Sen Xian Chew",380,2,Asia,Malaysia
+916,MAS,Anson Cheong,380,2,Asia,Malaysia
+924,POL,Aleksander Dzwonnik,370,7,Europe,Poland
+925,NED,Thomas Sibbald,370,5,Europe,Netherlands
+926,NED,Lars Kros,370,3,Europe,Netherlands
+926,PAR,Alejandro Àvalos,370,3,Pan America,Paraguay
+928,MLT,Matthew Galea,370,2,Europe,Malta
+929,SLO,Maj Poboljšaj,360,8,Europe,Slovenia
+930,ZIM,Tanaka Muvavi,360,2,Africa,Zimbabwe
+930,ISR,Shawn Grinblat,360,2,Europe,Israel
+932,IRI,Hasan Motaghi,360,1,Asia,Iran
+932,IRI,Amir Ghasemi,360,1,Asia,Iran
+932,IRI,Farzin Khanjani,360,1,Asia,Iran
+932,NZL,Kai Yi Lim,360,1,Oceania,New Zealand
+932,IRI,Seyed Armin Zaki Zadeh,360,1,Asia,Iran
+932,NZL,Daniel Hillier,360,1,Oceania,New Zealand
+932,MGL,Khuvituguldur Byambajav,360,1,Asia,Mongolia
+932,NZL,Andrew Rouse,360,1,Oceania,New Zealand
+932,IRQ,Husam Alnaies,360,1,Asia,Iraq
+932,DEN,Mikkel Enghøj,360,1,Europe,Denmark
+932,IRQ,Ali Neamah,360,1,Asia,Iraq
+932,NZL,Jasmanjot Virk,360,1,Oceania,New Zealand
+932,MGL,Olonbayar Enkhbat,360,1,Asia,Mongolia
+932,IRI,Mohamad Pairavand,360,1,Asia,Iran
+932,UGA,Augustus Owinyi,360,1,Africa,Uganda
+932,SEY,Jie Luo,360,1,Africa,Seychelles
+932,NEP,Prince Dahal,360,1,Asia,Nepal
+932,IRI,Mohsen Masoumitabarzanjani,360,1,Asia,Iran
+932,SEY,Jakim Renaud,360,1,Africa,Seychelles
+932,PER,Sharum Durand Cardenas,360,1,Pan America,Peru
+932,MGL,Sumiyasuren Enkhbat,360,1,Asia,Mongolia
+932,THA,Surasit Ariyabaraneekul,360,1,Asia,Thailand
+932,IRI,Mohammad Ali Faghih Khorasani,360,1,Asia,Iran
+932,IRI,Mohammad Zarchi,360,1,Asia,Iran
+932,AUS,Matthew Kong,360,1,Oceania,Australia
+932,AUS,Keng Hooi Tan,360,1,Oceania,Australia
+932,IND,Sasi Kumar Raj Kumar,360,1,Asia,India
+932,CAN,Joseph Lu,360,1,Pan America,Canada
+932,UKR,Danylo Shevchuk,360,1,Europe,Ukraine
+932,IRQ,Mohammed Qusay,360,1,Asia,Iraq
+932,IRI,Kambiz Bedroodshahdi,360,1,Asia,Iran
+932,FIJ,Jared Chung,360,1,Oceania,Fiji
+932,IRQ,Karrar Hussein,360,1,Asia,Iraq
+932,IND,Priyansh Khushwani,360,1,Asia,India
+932,BAN,Shahed Ahmed,360,1,Asia,Bangladesh
+932,UKR,Oleksii Syrytsia,360,1,Europe,Ukraine
+932,UKR,Taras Nehar,360,1,Europe,Ukraine
+932,UKR,Ihor Sienichkyn,360,1,Europe,Ukraine
+932,IRQ,Amer Awad,360,1,Asia,Iraq
+932,IRI,Soroush Freydouni,360,1,Asia,Iran
+932,IRI,Mohammadamin Mohammadjani,360,1,Asia,Iran
+932,IRI,Armin Barzandeh,360,1,Asia,Iran
+932,IRI,Amirreza Bayani,360,1,Asia,Iran
+932,IRI,Masoud Mohsenpour,360,1,Asia,Iran
+932,AUS,Aryan Jhade,360,1,Oceania,Australia
+932,AUS,Ohmkkar Neelam,360,1,Oceania,Australia
+932,AUS,Cade Elliott,360,1,Oceania,Australia
+932,AUS,Frederick Zhao,360,1,Oceania,Australia
+932,REU,Thibaud Cougouille,360,1,Africa,Ligue Nouvelle Badminton REUNION
+932,MRI,Siow Yin Young Aidan Yu Kiat,360,1,Africa,Mauritius
+932,MAD,Ranaivolala Eugelot,360,1,Africa,Madagascar
+932,MGL,Yesun- Erdene Munkhbaatar,360,1,Asia,Mongolia
+932,AUS,Shaun Li,360,1,Oceania,Australia
+932,AUS,Wey Shawn Ng,360,1,Oceania,Australia
+932,AUS,Wilson Li,360,1,Oceania,Australia
+932,AUS,Alan Martin,360,1,Oceania,Australia
+932,MAS,Lincoln Isaac Shim,360,1,Asia,Malaysia
+932,AUS,Evan Rusli,360,1,Oceania,Australia
+932,AUS,Harith Jayasuriya,360,1,Oceania,Australia
+932,AUS,Nils Vercruysse,360,1,Oceania,Australia
+932,IND,Anirban Bhattacharjee,360,1,Asia,India
+932,MDV,Abdul Samad Mohamed Saalim,360,1,Asia,Maldives
+932,MDV,Ismail Nabith Ibrahim,360,1,Asia,Maldives
+932,MDV,Ibrahim Rabeeth,360,1,Asia,Maldives
+932,MDV,Ahmed Saadhin Jaleel,360,1,Asia,Maldives
+932,MDV,Hassan Zayan,360,1,Asia,Maldives
+932,SRI,Chamath Dias,360,1,Asia,Sri Lanka
+932,MDV,Abdul Latheef Gasim Liyah,360,1,Asia,Maldives
+932,NZL,Jack Ji,360,1,Oceania,New Zealand
+932,WAL,Mebel Mano Kurian,360,1,Europe,Wales
+932,CAN,Benoit Bordeleau,360,1,Pan America,Canada
+932,CAN,Hooman Bagheri,360,1,Pan America,Canada
+932,CAN,Ethan Ao Jun Chan,360,1,Pan America,Canada
+932,CAN,Yufei Zhai,360,1,Pan America,Canada
+932,CAN,Rayce Su,360,1,Pan America,Canada
+932,CAN,Oliver Chen,360,1,Pan America,Canada
+932,MAS,Muhammad Adam,360,1,Asia,Malaysia
+1009,SVK,Marian Liptak,350,7,Europe,Slovakia
+1010,ENG,Ben Muir,350,4,Europe,England
+1010,HUN,Balint Papai,350,4,Europe,Hungary
+1012,FIN,Tony Lindelöf,350,3,Europe,Finland
+1013,MEX,Mauricio Casillas,350,1,Pan America,Mexico
+1013,BOT,Tumisang Olekantse,350,1,Africa,Botswana
+1013,BOT,Tlamelang Kepaletswe,350,1,Africa,Botswana
+1013,BOT,Otsile Marumo,350,1,Africa,Botswana
+1013,BOT,Perekisi Tshepo,350,1,Africa,Botswana
+1013,SWE,Andy Tsai,350,1,Europe,Sweden
+1013,NGR,Jafar Salihu Umar,350,1,Africa,Nigeria
+1013,ISR,Ami Abekasis,350,1,Europe,Israel
+1013,ZAM,Mark Banda,350,1,Africa,Zambia
+1013,BEN,Senakpon Carlos Bossouvi,350,1,Africa,Benin
+1013,BEN,Gbenoukpo Sebastiano Degbe,350,1,Africa,Benin
+1013,ZAM,Hassani D Phiri,350,1,Africa,Zambia
+1013,ZAM,Andrew Mumba,350,1,Africa,Zambia
+1013,BEN,Tobiloba Oyewole,350,1,Africa,Benin
+1013,ISR,Ofir Belenki,350,1,Europe,Israel
+1013,ISR,Stav Peleg,350,1,Europe,Israel
+1013,BEN,Gedeon Montcho,350,1,Africa,Benin
+1013,MEX,Saul Solis,350,1,Pan America,Mexico
+1013,PAR,Julio Cesar Gonzalez Vera,350,1,Pan America,Paraguay
+1013,ZAM,Fred Simabambaya,350,1,Africa,Zambia
+1013,RSA,Ryan Armand Swart,350,1,Africa,South Africa
+1013,BEN,Jean-Marc Vianney Agossouwi,350,1,Africa,Benin
+1013,USA,Erwin Sarmiento,350,1,Pan America,U.S.A.
+1013,ZAM,Poho Kaumba,350,1,Africa,Zambia
+1013,ZAM,Mike Maseko,350,1,Africa,Zambia
+1013,BEN,Henri Joel Komadadi,350,1,Africa,Benin
+1013,BEN,Julien Wadoud Totin,350,1,Africa,Benin
+1013,ISR,Mark Aronchik,350,1,Europe,Israel
+1013,ESA,Josué Duran,350,1,Pan America,El Salvador
+1013,BEN,Jaures Badou,350,1,Africa,Benin
+1013,BEN,Peniel Degnon De-Dravo,350,1,Africa,Benin
+1013,MEX,Andres Gonzalez Sañudo,350,1,Pan America,Mexico
+1013,MEX,Santiago Lozoya,350,1,Pan America,Mexico
+1013,ISR,Dor Shani,350,1,Europe,Israel
+1013,ISR,Sharon Perelshtein,350,1,Europe,Israel
+1013,ISR,David Pupko,350,1,Europe,Israel
+1013,ISR,Adam Travinskiy,350,1,Europe,Israel
+1013,ISR,Guy Blumenreich,350,1,Europe,Israel
+1013,GUA,Alessandro Anguiano Gonzalez,350,1,Pan America,Guatemala
+1013,ZAM,Kenny Chisi,350,1,Africa,Zambia
+1013,ZAM,Owei Mbole,350,1,Africa,Zambia
+1013,ZAM,Peter Poho,350,1,Africa,Zambia
+1013,BOT,Mishingo Meshack Keokilwe,350,1,Africa,Botswana
+1013,ZIM,Trinity Chipumho,350,1,Africa,Zimbabwe
+1013,TPE,Yu Hsiang Lin,350,1,Asia,Chinese Taipei
+1013,TPE,Lu Cheng-Che,350,1,Asia,Chinese Taipei
+1013,TPE,Yu Yen Cheng,350,1,Asia,Chinese Taipei
+1060,IND,Vaibhav Jadhav,340,3,Asia,India
+1061,IND,Arintap Das Gupta,340,2,Asia,India
+1061,DEN,Mads Emil Monke,340,2,Europe,Denmark
+1061,ENG,Charlie Castle,340,2,Europe,England
+1064,SWE,Andre Irpola,330,6,Europe,Sweden
+1065,SLO,Gregor Alič,320,10,Europe,Slovenia
+1066,ENG,Joseph Waugh,320,9,Europe,England
+1067,SRB,Sergej Lukic,320,4,Europe,Serbia
+1068,AUS,Michael Su,320,1,Oceania,Australia
+1069,POR,Pedro Portelas,310,6,Europe,Portugal
+1070,FIN,Aleksi Mäki,310,4,Europe,Finland
+1071,IND,Gopal Krishna Reddy Dundi,310,3,Asia,India
+1071,UAE,Aakash Ravikumar,310,3,Asia,UNITED ARAB EMIRATES
+1071,IND,Sidhant Chopra,310,3,Asia,India
+1071,IND,Rajesh Srikar,310,3,Asia,India
+1071,IND,Sohit Hooda,310,3,Asia,India
+1071,IND,Harsh Anand Deshwal,310,3,Asia,India
+1071,NZL,Avinash Shastri,310,3,Oceania,New Zealand
+1078,SUI,Lorrain Joliat,310,2,Europe,Switzerland
+1079,AUT,Kilian Meusburger,300,7,Europe,Austria
+1080,NOR,Ludvig Smith-Meyer,300,5,Europe,Norway
+1081,MYA,Min Htet Kaung,300,2,Asia,Myanmar
+1082,EGY,Omar Emad,290,3,Africa,Egypt
+1083,DEN,Mathias Solgaard,280,4,Europe,Denmark
+1084,IND,Venkata Uneeth Krishna Bhimavarapu,270,5,Asia,India
+1085,SCO,Joshua Apiliga,270,3,Europe,Scotland
+1086,GER,Saruul Shafiq,270,2,Europe,Germany
+1086,MEX,Marco Antonio Ornelas Rodarte,270,2,Pan America,Mexico
+1086,POL,Bartosz Krajewski,270,2,Europe,Poland
+1086,DEN,Sebastian Lassen Nielsen,270,2,Europe,Denmark
+1086,BRU,Kah Kit Kan,270,2,Asia,Brunei Darussalam
+1086,BRN,Yusuf Almutawa,270,2,Asia,Bahrain
+1092,SWE,Mitchell Maynard,260,4,Europe,Sweden
+1093,BEL,Adrien Slegers,250,6,Europe,Belgium
+1093,NED,Jasper Koppen,250,6,Europe,Netherlands
+1095,UKR,Volodymyr Koluzaiev,250,5,Europe,Ukraine
+1095,SWE,Carl Claesson,250,5,Europe,Sweden
+1097,CYP,Aris Kattirtzi,250,4,Europe,Cyprus
+1098,MAS,Tan Ming Kang,250,2,Asia,Malaysia
+1099,FIN,Eliel Melleri,240,4,Europe,Finland
+1099,ITA,Alessandro Gozzini,240,4,Europe,Italy
+1101,IND,Ajay Meena,240,2,Asia,India
+1101,IND,Mukul Arora,240,2,Asia,India
+1101,IND,Mokshit Porwal,240,2,Asia,India
+1101,IND,Siddhartha Das,240,2,Asia,India
+1101,IND,Vishesh Sharma,240,2,Asia,India
+1106,VIE,Hoang Kha Tran,240,1,Asia,Vietnam
+1107,POR,David Silva,230,5,Europe,Portugal
+1108,ITA,Calle Fredholm,230,4,Europe,Italy
+1109,NOR,Mattias Xu,230,2,Europe,Norway
+1109,GEQ,José Luis Nsogo Nguema,230,2,Africa,EQUATORIAL GUINEA
+1109,GEQ,Benjamin Igor Olo Angono,230,2,Africa,EQUATORIAL GUINEA
+1112,CZE,Pavel Maňásek,220,5,Europe,Czech Republic
+1113,GER,Hendrik Stagge,210,6,Europe,Germany
+1114,ENG,Hugo Jardim,210,4,Europe,England
+1114,IRL,Adam Mcallister,210,4,Europe,Ireland
+1114,POR,Diogo Gloria,210,4,Europe,Portugal
+1114,SVK,Sebastian Kadlec,210,4,Europe,Slovakia
+1118,IND,Nikhil Jangid,210,3,Asia,India
+1118,IND,Rajesh Verma,210,3,Asia,India
+1118,IND,Akul Chauhan,210,3,Asia,India
+1118,DEN,Sebastian Mikkelsen,210,3,Europe,Denmark
+1122,POL,Jan Wilczak,210,2,Europe,Poland
+1122,ENG,Michael Pang,210,2,Europe,England
+1124,CMR,Landry Menguele,210,1,Africa,Cameroon
+1124,KOR,Lee Hong Je,210,1,Asia,Korea
+1124,VIE,Duy Nam Le,210,1,Asia,Vietnam
+1124,PHI,Oba-Ob Rabbie Jayson,210,1,Asia,Philippines
+1124,KOR,Lee Sang Ho,210,1,Asia,Korea
+1124,KOR,Son Seong Hyun,210,1,Asia,Korea
+1124,CHI,Fernando Sanhueza,210,1,Pan America,Chile
+1124,EGY,Mohamed Toson,210,1,Africa,Egypt
+1124,CMR,Pierre Frederic Bitep,210,1,Africa,Cameroon
+1124,FIJ,Chang Ho Kim,210,1,Oceania,Fiji
+1124,SWE,August Bjorkler,210,1,Europe,Sweden
+1124,KAZ,Andrey Shalagin,210,1,Asia,Kazakhstan
+1124,MEX,Hiram Gabriel Mendoza Arredondo,210,1,Pan America,Mexico
+1124,MEX,Santiago Loza Vega,210,1,Pan America,Mexico
+1124,ENG,Kaylan Jensen,210,1,Europe,England
+1124,THA,Andrew Peter Newman,210,1,Asia,Thailand
+1124,AUS,Ashwin Gopalan Nair,210,1,Oceania,Australia
+1124,USA,Andrew Tan,210,1,Pan America,U.S.A.
+1124,USA,Rylan Tan,210,1,Pan America,U.S.A.
+1124,DOM,Kael Anselmo Sosa Espinosa,210,1,Pan America,Dominican Republic
+1124,MEX,Irving Perez,210,1,Pan America,Mexico
+1124,CRC,Diego Hurtado,210,1,Pan America,Costa Rica
+1124,CAN,Shubh Krishan,210,1,Pan America,Canada
+1124,CHI,Bahamondez Benjamin,210,1,Pan America,Chile
+1124,CHI,Monne Nicolas,210,1,Pan America,Chile
+1124,CMR,Paul Christ Assembe Voundi,210,1,Africa,Cameroon
+1124,THA,Sarun Rukcharoen,210,1,Asia,Thailand
+1124,EGY,Mohamed Hegazy,210,1,Africa,Egypt
+1124,KOR,Park Joon Hyeok,210,1,Asia,Korea
+1124,THA,Utchan Ruaysap,210,1,Asia,Thailand
+1124,MYA,Hein Kaung San,210,1,Asia,Myanmar
+1124,VIE,Thanh Long Vu,210,1,Asia,Vietnam
+1124,THA,Phitikamon Phankaew,210,1,Asia,Thailand
+1124,BRN,Vishal Pereira,210,1,Asia,Bahrain
+1158,LUX,Leo Hölzmer,200,7,Europe,Luxembourg
+1159,POL,Michal Walentek,200,6,Europe,Poland
+1160,LUX,Kevin Hargiono,200,5,Europe,Luxembourg
+1161,FRA,Matteo Justel,200,3,Europe,France
+1162,HUN,Zoltan Kereszti,190,7,Europe,Hungary
+1163,TPE,Kuo Li-Chun,190,2,Asia,Chinese Taipei
+1163,SCO,Sen Thomas,190,2,Europe,Scotland
+1165,SWE,Jesper Borgstedt,180,3,Europe,Sweden
+1166,AUT,Christian Tomic,170,7,Europe,Austria
+1167,SCO,Shaun Ally Aamir,170,6,Europe,Scotland
+1168,CRO,Ivor Zekan,170,5,Europe,Croatia
+1169,NOR,Thomas Barth,170,4,Europe,Norway
+1170,WAL,Man Yin Leung,170,3,Europe,Wales
+1171,NED,Niels Veenstra,170,2,Europe,Netherlands
+1171,SWE,Emil Söderdahl,170,2,Europe,Sweden
+1171,BEL,Baptiste Rolin,170,2,Europe,Belgium
+1174,MDV,Nasheeu Sharafuddeen,170,1,Asia,Maldives
+1174,IRL,David Walsh,170,1,Europe,Ireland
+1174,REU,Loic Bertil,170,1,Africa,Ligue Nouvelle Badminton REUNION
+1174,ENG,Ethan Rose,170,1,Europe,England
+1174,UKR,Yevhenii Stolovoi,170,1,Europe,Ukraine
+1174,MRI,Yajnesh Anand Changea,170,1,Africa,Mauritius
+1174,ENG,Jamie Pearcy,170,1,Europe,England
+1174,MDV,Mohamed Rafaah,170,1,Asia,Maldives
+1174,BAN,Syed Saker Mohammad Sibgat Ullah,170,1,Asia,Bangladesh
+1174,UGA,Ahmed Oduka,170,1,Africa,Uganda
+1174,CAN,Xavier Laperriere,170,1,Pan America,Canada
+1174,THA,Panukorn Nimitpornchai,170,1,Asia,Thailand
+1174,UGA,Abdul Hirya,170,1,Africa,Uganda
+1174,UGA,Eli Kerolam,170,1,Africa,Uganda
+1174,UGA,Dennis Omara,170,1,Africa,Uganda
+1174,UKR,Nikita Yeromenko,170,1,Europe,Ukraine
+1174,UKR,Volodymyr Repiakh,170,1,Europe,Ukraine
+1174,UKR,Petro Takalo,170,1,Europe,Ukraine
+1174,UKR,Hlib Derevianko,170,1,Europe,Ukraine
+1174,IND,Ansh Vishal Gupta,170,1,Asia,India
+1174,UKR,Serhii Dashchenko,170,1,Europe,Ukraine
+1174,UKR,Mykola Postol,170,1,Europe,Ukraine
+1174,UKR,Dmytro Shcherbatiuk,170,1,Europe,Ukraine
+1174,IRI,Arshia Amalkonande,170,1,Asia,Iran
+1174,MRI,Mohammad Rayan Shanawaz Rezah Emamdhully,170,1,Africa,Mauritius
+1174,UGA,Mohammad Walugembe,170,1,Africa,Uganda
+1174,POL,Igor Jasek,170,1,Europe,Poland
+1174,FRA,Romain Youinou,170,1,Europe,France
+1174,REU,Hugo Constans,170,1,Africa,Ligue Nouvelle Badminton REUNION
+1174,MAD,Randrianantenaina Sitraka Jean Baptiste,170,1,Africa,Madagascar
+1174,MRI,Savoo Tejas,170,1,Africa,Mauritius
+1174,AUS,Kah Wei Tan,170,1,Oceania,Australia
+1174,MDV,Mohamed Udhaish Ahmed Shareef,170,1,Asia,Maldives
+1174,MDV,Azhar Mohamed Ayyoob,170,1,Asia,Maldives
+1174,MDV,Abdul Rasheed Aseel,170,1,Asia,Maldives
+1174,MDV,Yoosuf Munadhie Mathloob,170,1,Asia,Maldives
+1174,MDV,Mohamed Adeem Adam,170,1,Asia,Maldives
+1174,MDV,Ahmed Daniel Ashraf,170,1,Asia,Maldives
+1174,MDV,Mohamed Maailu Fathuhulla Ismail,170,1,Asia,Maldives
+1174,NED,Rakesh Sharma,170,1,Europe,Netherlands
+1174,ENG,Ka Wai Ng,170,1,Europe,England
+1174,ENG,Dillon Chong,170,1,Europe,England
+1174,CAN,Saket Thavanani,170,1,Pan America,Canada
+1174,CAN,Jerry Yin,170,1,Pan America,Canada
+1174,CAN,Connor Louie,170,1,Pan America,Canada
+1174,CAN,Arpitraj Rajesh Kumar Sinha,170,1,Pan America,Canada
+1174,CAN,Sahil Sahil,170,1,Pan America,Canada
+1174,CAN,Arnav Lokhande,170,1,Pan America,Canada
+1174,CAN,Anton Angeles,170,1,Pan America,Canada
+1174,CAN,Nicholas Lai-Cheong,170,1,Pan America,Canada
+1174,CAN,Felix Dong Sun,170,1,Pan America,Canada
+1174,SGP,Ho Yu Feng Julian,170,1,Asia,Singapore
+1174,MAS,Ting Wen Xuan,170,1,Asia,Malaysia
+1227,MEX,Jose Manuel Jaime Magaña,160,2,Pan America,Mexico
+1228,HUN,Adam Konczol,150,5,Europe,Hungary
+1229,POL,Szymon Stokfisz,150,4,Europe,Poland
+1230,UKR,Yegor Romaniuk,150,3,Europe,Ukraine
+1231,ISL,Robert Thor Henn,150,2,Europe,Iceland
+1231,MLT,Isaac Ellul,150,2,Europe,Malta
+1233,CZE,Tadeáš Brázda,140,5,Europe,Czech Republic
+1233,IRL,Sean Laureta,140,5,Europe,Ireland
+1233,SWE,Max Svensson,140,5,Europe,Sweden
+1236,HUN,Kristof Toth,140,3,Europe,Hungary
+1237,IND,Siddharth Jakhar,140,2,Asia,India
+1237,IND,Nikhil Shyam Sriram,140,2,Asia,India
+1237,IND,Thejas Shivakumar,140,2,Asia,India
+1237,IND,Harshal Bhoyar,140,2,Asia,India
+1237,IND,Irvin Arokia Walter,140,2,Asia,India
+1237,IND,Murali Krishna Kannuri,140,2,Asia,India
+1237,MAS,Tan Jun Yi,140,2,Asia,Malaysia
+1237,FIN,Safin Emran,140,2,Europe,Finland
+1245,AUT,Michael Schausberger,130,5,Europe,Austria
+1246,LAT,Arturs Akmens,130,4,Europe,Latvia
+1246,ISL,Gabriel Ingi Helgason,130,4,Europe,Iceland
+1248,KAZ,Makhsut Tadzhibullaev,130,2,Asia,Kazakhstan
+1248,FRA,Robinson Coube,130,2,Europe,France
+1250,BOT,Adams Ntungamili,130,1,Africa,Botswana
+1250,GRE,Georgios Orfeas Tsamousiadis,130,1,Europe,Greece
+1250,BOT,Batanani Bongani Oboletse,130,1,Africa,Botswana
+1250,SVK,Andrej Antoska,130,1,Europe,Slovakia
+1250,NGR,Adeogun Gbolahan Ajose,130,1,Africa,Nigeria
+1250,BOT,Kao Gee-Q Gobe Mokgatle,130,1,Africa,Botswana
+1250,BOT,Amord Sepela,130,1,Africa,Botswana
+1250,BEN,Romeo Hambada,130,1,Africa,Benin
+1250,FRA,Theo Lanier,130,1,Europe,France
+1250,ESP,Daniel Franco,130,1,Europe,Spain
+1250,ESP,Miguel Esteve,130,1,Europe,Spain
+1250,PAR,Kevin Chen,130,1,Pan America,Paraguay
+1250,MEX,Leonardo Ramirez Lopez,130,1,Pan America,Mexico
+1250,MEX,Alberto Rodriguez,130,1,Pan America,Mexico
+1250,NGR,Mustapha Quam Adedeji,130,1,Africa,Nigeria
+1250,NGR,Joseph Abel,130,1,Africa,Nigeria
+1250,BUR,Ali Kaboré,130,1,Africa,BUR Burkina Faso
+1250,NGR,Daniel Christopher Egbonyi,130,1,Africa,Nigeria
+1250,FRA,Loan Peillet,130,1,Europe,France
+1250,ISR,Shon Leitman,130,1,Europe,Israel
+1250,ZIM,Jayesh Milind Khamkar,130,1,Africa,Zimbabwe
+1250,ZAM,Ephraim Mwale,130,1,Africa,Zambia
+1250,JPN,Daigo Tanioka,130,1,Asia,Japan
+1250,BOT,Laone Mogopa,130,1,Africa,Botswana
+1250,BOT,Batsho Kgakishi,130,1,Africa,Botswana
+1250,RSA,Mohmed Sufiyan Malik,130,1,Africa,South Africa
+1250,SUI,Keishin Rimmer,130,1,Europe,Switzerland
+1250,ITA,Simone Piccinin,130,1,Europe,Italy
+1278,ISL,Daniel Johannesson,120,3,Europe,Iceland
+1279,NED,Timo Stoffelen,120,2,Europe,Netherlands
+1279,GER,Bennet Peters,120,2,Europe,Germany
+1281,AUT,Emil Dantler,110,4,Europe,Austria
+1281,NED,Rune Van Dalm,110,4,Europe,Netherlands
+1283,SCO,Jake Thomas,110,3,Europe,Scotland
+1283,FIN,Niilo Nyqvist,110,3,Europe,Finland
+1283,SUI,Dominik Tripet,110,3,Europe,Switzerland
+1286,POL,Piotr Krajewski,110,2,Europe,Poland
+1286,EST,Rannar Zirk,110,2,Europe,Estonia
+1286,SUI,Arthur Boudier,110,2,Europe,Switzerland
+1286,UKR,Yehor Leontyev,110,2,Europe,Ukraine
+1286,POL,Adrian Koc,110,2,Europe,Poland
+1286,NED,Dennis Eversdijk,110,2,Europe,Netherlands
+1292,CRO,Edvin Hadžihalilović,100,5,Europe,Croatia
+1293,DEN,Oliver Lee Nowak,100,3,Europe,Denmark
+1293,HUN,Marton Szerecz,100,3,Europe,Hungary
+1293,BUL,Evgeni Uzunov,100,3,Europe,Bulgaria
+1296,LAT,Andis Berzins,100,2,Europe,Latvia
+1297,KOR,Ha Young Woong,100,1,Asia,Korea
+1297,DOM,Miguel Marinez,100,1,Pan America,Dominican Republic
+1297,JOR,Ayham Abd Eleddin,100,1,Asia,Jordan
+1297,NOR,Carl Christian Møller,100,1,Europe,Norway
+1297,DOM,Bryan Anderson Castro,100,1,Pan America,Dominican Republic
+1297,COD,Mutombo Tshizanga,100,1,Africa,DEMOCRATIC REPUBLIC OF CONGO
+1297,AUT,Philipp Drexler,100,1,Europe,Austria
+1297,EGY,John Riad,100,1,Africa,Egypt
+1297,DOM,Anderson Taveras,100,1,Pan America,Dominican Republic
+1297,DEN,Andreas Fleischer,100,1,Europe,Denmark
+1297,EGY,Basel Hesham Mohamed Ibrahim,100,1,Africa,Egypt
+1297,EGY,Omar Ezzat Abelrahim Mohamed,100,1,Africa,Egypt
+1297,VIE,Quoc Huy Nguyen,100,1,Asia,Vietnam
+1297,THA,Worapat Surakkhaka,100,1,Asia,Thailand
+1297,FRA,Dimitri Jacquart,100,1,Europe,France
+1297,IND,Lauhit Pokuri,100,1,Asia,India
+1297,VEN,Joiser Calanche,100,1,Pan America,Venezuela
+1297,MEX,Carlos Covarrubias Martinez,100,1,Pan America,Mexico
+1297,ARU,Lu Mackie,100,1,Pan America,Aruba
+1297,JOR,Izzeldeen Abuarrah,100,1,Asia,Jordan
+1297,DOM,Daiverson Pereira,100,1,Pan America,Dominican Republic
+1297,DOM,Sahyr Manuel Lora Garcia,100,1,Pan America,Dominican Republic
+1297,DOM,Johan Manuel Rijo,100,1,Pan America,Dominican Republic
+1297,GER,Jonas Scheller,100,1,Europe,Germany
+1297,CAF,Louidou De Lellis Gbate-Malo,100,1,Africa,CENTRAL AFRICAN Republic
+1297,EST,Mario Kirisma,100,1,Europe,Estonia
+1297,MEX,José Miguel Galindo,100,1,Pan America,Mexico
+1297,POL,Dawid Perkowski,100,1,Europe,Poland
+1297,JOR,Qusai Althawahreh,100,1,Asia,Jordan
+1297,JOR,Saif Abu Eid,100,1,Asia,Jordan
+1297,CRC,Johan Jiménez,100,1,Pan America,Costa Rica
+1297,DOM,Angel Luis Rosario,100,1,Pan America,Dominican Republic
+1297,ARU,Jonah Arthur Tromp,100,1,Pan America,Aruba
+1297,MEX,Daniel Salazar,100,1,Pan America,Mexico
+1297,MEX,Sergio Sergeevich Arias Tsarkova,100,1,Pan America,Mexico
+1297,MEX,Juan Pablo Jimenez Romero,100,1,Pan America,Mexico
+1297,MEX,Maximiliano Peregrina Torres,100,1,Pan America,Mexico
+1297,MEX,Landon Ortiz,100,1,Pan America,Mexico
+1297,MEX,Juan Pablo Montoya,100,1,Pan America,Mexico
+1297,CRC,Ethan Jiménez,100,1,Pan America,Costa Rica
+1297,USA,Patrick Chi,100,1,Pan America,U.S.A.
+1297,DOM,Luis Rodriguez,100,1,Pan America,Dominican Republic
+1297,GEQ,Jesus Ngua Esawong Belica,100,1,Africa,EQUATORIAL GUINEA
+1297,CAF,Vincent-Parfait Inhoul-Ouahally,100,1,Africa,CENTRAL AFRICAN Republic
+1297,CAF,Saint Cyr Nganabeame,100,1,Africa,CENTRAL AFRICAN Republic
+1297,CZE,Daniel Dvořák,100,1,Europe,Czech Republic
+1297,POL,Mateusz Golas,100,1,Europe,Poland
+1297,VIE,Nhat Hoang Dinh,100,1,Asia,Vietnam
+1297,AUS,Phillip Halim,100,1,Oceania,Australia
+1297,AUS,Jason Hong,100,1,Oceania,Australia
+1297,NZL,Raphael Deloy,100,1,Oceania,New Zealand
+1297,EGY,Omar Shater,100,1,Africa,Egypt
+1297,EGY,Moaz Hesham Hassan,100,1,Africa,Egypt
+1297,EGY,Youssif Mohamed,100,1,Africa,Egypt
+1297,EGY,Seif Omar,100,1,Africa,Egypt
+1297,CZE,Patrik Hrazdíra,100,1,Europe,Czech Republic
+1297,VIE,Minh Thai Le,100,1,Asia,Vietnam
+1297,VIE,Tien Dat Nguyen,100,1,Asia,Vietnam
+1297,THA,Thiti Kokilawatee,100,1,Asia,Thailand
+1297,VIE,Quang Huy Dong,100,1,Asia,Vietnam
+1297,LAO,Phonesack Sokthavy,100,1,Asia,Lao
+1297,VIE,Viet Nhan Nguyen,100,1,Asia,Vietnam
+1297,PHI,Lance Gabriel Vargas,100,1,Asia,Philippines
+1297,KOR,Kim Min Jae,100,1,Asia,Korea
+1297,VIE,Duc Bao Ta,100,1,Asia,Vietnam
+1297,VIE,Duc Truong Ngo,100,1,Asia,Vietnam
+1297,VIE,Nam Khanh Bui,100,1,Asia,Vietnam
+1297,VIE,Hoai Nam Nguyen,100,1,Asia,Vietnam
+1297,VIE,Van Sang Nguyen,100,1,Asia,Vietnam
+1297,BRN,Nasser Alnakkas,100,1,Asia,Bahrain
+1297,KSA,Abdullah Aldawsari,100,1,Asia,SAUDI ARABIA
+1297,BRN,Sayed Ebrahim Hasan,100,1,Asia,Bahrain
+1297,BRN,Ahmed Hasan,100,1,Asia,Bahrain
+1297,KSA,Yazan Saigh,100,1,Asia,SAUDI ARABIA
+1371,CRO,Vito Saganić,90,4,Europe,Croatia
+1372,SRB,Viktor Petrovic,90,3,Europe,Serbia
+1373,ENG,William Freer,90,2,Europe,England
+1373,FRA,Achille Girard,90,2,Europe,France
+1373,FRA,Arthur Chardain,90,2,Europe,France
+1376,WAL,Andrew Oates,80,3,Europe,Wales
+1376,GER,Pascal Scheiel,80,3,Europe,Germany
+1376,AUT,Tobias Rudolf,80,3,Europe,Austria
+1376,ITA,Marco Bailetti,80,3,Europe,Italy
+1376,SWE,Hector Rebetz,80,3,Europe,Sweden
+1376,HUN,Kean Gabor Kigyos,80,3,Europe,Hungary
+1382,ISL,Robert Ingi Huldarsson,80,2,Europe,Iceland
+1382,POL,Patryk Kordek,80,2,Europe,Poland
+1382,BUL,Martin Hlebarski,80,2,Europe,Bulgaria
+1382,LTU,Vilius Bagdanavicius,80,2,Europe,Lithuania
+1382,BUL,Ivan Dimitrov,80,2,Europe,Bulgaria
+1382,IRL,Matthew Cheung,80,2,Europe,Ireland
+1382,SCO,Michael Mcguire,80,2,Europe,Scotland
+1382,UKR,Serhii Marushchak,80,2,Europe,Ukraine
+1382,LTU,Azuolas Barkauskas,80,2,Europe,Lithuania
+1382,GER,Dorian Florin Tihi,80,2,Europe,Germany
+1392,SUI,Patrick Zbinden,70,3,Europe,Switzerland
+1393,UKR,Vladyslav Stepanchenko,70,2,Europe,Ukraine
+1393,BUL,Stanimir Terziev,70,2,Europe,Bulgaria
+1395,MRI,Saheer Ramrakha,70,1,Africa,Mauritius
+1395,UGA,Daniel Mihigo,70,1,Africa,Uganda
+1395,UGA,Davies Senono,70,1,Africa,Uganda
+1395,UGA,Moustafa Bumpenje,70,1,Africa,Uganda
+1395,MAD,Hery-Zo Maminiaina Rakotoherinivo,70,1,Africa,Madagascar
+1395,UGA,Expedito Emuddu,70,1,Africa,Uganda
+1395,UGA,Muzafar Lubega,70,1,Africa,Uganda
+1395,REU,Terry Sebastien Amedee,70,1,Africa,Ligue Nouvelle Badminton REUNION
+1395,UGA,Denis Onyango,70,1,Africa,Uganda
+1395,NED,Sebastiaan Li,70,1,Europe,Netherlands
+1395,IND,Sarath Dunna,70,1,Asia,India
+1395,UGA,Aaron Opea Renge,70,1,Africa,Uganda
+1395,MAD,Randriamalala Julio Keman,70,1,Africa,Madagascar
+1395,MRI,Abdul Zaheer Beebeejaun,70,1,Africa,Mauritius
+1395,MRI,Abdul Zeeshan Beebeejaun,70,1,Africa,Mauritius
+1395,POL,Yevhen Kobzar,70,1,Europe,Poland
+1395,BEL,Tijl Dewit,70,1,Europe,Belgium
+1395,DEN,Mikkel Toft,70,1,Europe,Denmark
+1395,MRI,Jason Francois,70,1,Africa,Mauritius
+1395,IRL,Callum Thomas,70,1,Europe,Ireland
+1395,UGA,Jordan Abo,70,1,Africa,Uganda
+1395,UGA,Samuel Wasswa,70,1,Africa,Uganda
+1395,UGA,Akbar Oduka,70,1,Africa,Uganda
+1395,UGA,Thomas Katerega,70,1,Africa,Uganda
+1395,DEN,Michael Svejsø,70,1,Europe,Denmark
+1395,MRI,Bhavesh Bissessur,70,1,Africa,Mauritius
+1395,MRI,Hanuman Pravish,70,1,Africa,Mauritius
+1395,MRI,Douce Lucas,70,1,Africa,Mauritius
+1395,UKR,Vladyslav Landiak,70,1,Europe,Ukraine
+1395,IND,Srivatsav Duwari,70,1,Asia,India
+1395,IRL,Louie Lyons,70,1,Europe,Ireland
+1395,UGA,Shaurya Gupta,70,1,Africa,Uganda
+1395,UGA,Muhammad Ssali,70,1,Africa,Uganda
+1395,UGA,Akram Kamoga,70,1,Africa,Uganda
+1395,IND,Vikash Prabhu Radhakrishnan,70,1,Asia,India
+1395,UKR,Nikita Shelest,70,1,Europe,Ukraine
+1395,UKR,Mikola Tsygankov,70,1,Europe,Ukraine
+1395,IND,Raviraj Sharma,70,1,Asia,India
+1395,IND,Dharsan Arul,70,1,Asia,India
+1395,IND,Devansh Hirani,70,1,Asia,India
+1395,IND,Gaurav Parmar,70,1,Asia,India
+1395,UGA,Nabil Ishimwe,70,1,Africa,Uganda
+1395,UGA,Aaron Ndawula,70,1,Africa,Uganda
+1395,UGA,Shilton Tayebwa,70,1,Africa,Uganda
+1395,UGA,Alyaan Mawani,70,1,Africa,Uganda
+1395,UGA,Batham Kaweesa,70,1,Africa,Uganda
+1395,UGA,Reagan Micheal Nsubuga,70,1,Africa,Uganda
+1395,MRI,Nyanesh Anand Changea,70,1,Africa,Mauritius
+1395,MAD,Rakotojaona Tokinirina Fifaliana José,70,1,Africa,Madagascar
+1395,REU,Reale Devy,70,1,Africa,Ligue Nouvelle Badminton REUNION
+1395,MRI,Rayan Emamdhully,70,1,Africa,Mauritius
+1395,MAD,Razafimandimby Tokinirina,70,1,Africa,Madagascar
+1395,MRI,Cheong Fon Youn Jordy Kris Wann Hua,70,1,Africa,Mauritius
+1395,REU,Mathieu Savini,70,1,Africa,Ligue Nouvelle Badminton REUNION
+1395,NED,Mats Duwel,70,1,Europe,Netherlands
+1395,NED,Dion Rovers,70,1,Europe,Netherlands
+1395,BEL,Pepijn Van Rossom,70,1,Europe,Belgium
+1395,ENG,Ewen Stephen,70,1,Europe,England
+1395,FRA,Lois Le Corre,70,1,Europe,France
+1395,ENG,Isum Arachchige,70,1,Europe,England
+1455,GRE,Paschalis Melikidis,60,2,Europe,Greece
+1455,SUI,Jonas Schwarz,60,2,Europe,Switzerland
+1455,SLO,Natan Maksimovic,60,2,Europe,Slovenia
+1455,GER,Saurya Singh,60,2,Europe,Germany
+1455,SUI,Mathis Chanthakesone,60,2,Europe,Switzerland
+1460,LTU,Edgaras Slusnys,60,1,Europe,Lithuania
+1460,CRO,Josip Uglesic,60,1,Europe,Croatia
+1460,LTU,Kazimieras Dauskurtas,60,1,Europe,Lithuania
+1460,LTU,Ignas Reznikas,60,1,Europe,Lithuania
+1460,MLT,Samuel Cali,60,1,Europe,Malta
+1460,CZE,Filip Budzel,60,1,Europe,Czech Republic
+1460,MEX,Juan Carlos Garcia Tapia,60,1,Pan America,Mexico
+1460,GRE,Dimitrios Papadopoulos,60,1,Europe,Greece
+1460,TUR,Tayfun Tasdemir,60,1,Europe,Türkiye
+1460,CAN,Anthony Nguyen,60,1,Pan America,Canada
+1460,MEX,Jeronimo Uruñuela,60,1,Pan America,Mexico
+1460,NIG,Abdoulnasser Issiakou Chaibou,60,1,Africa,NIGER Fédération Nigerienne de Badminton
+1460,FRA,Marius Reboul L'Alexandre,60,1,Europe,France
+1460,FRA,Arthur Tatranov,60,1,Europe,France
+1460,FRA,Logan Dorso,60,1,Europe,France
+1460,FRA,Marwen Debeche,60,1,Europe,France
+1460,FRA,Maxime Leveque,60,1,Europe,France
+1460,PAR,Lian Josue Chen Gonzalez,60,1,Pan America,Paraguay
+1460,CRC,Santiago Suarez,60,1,Pan America,Costa Rica
+1460,MEX,Yibak Jessel,60,1,Pan America,Mexico
+1460,MEX,Hector Emiliano Regino Rojas,60,1,Pan America,Mexico
+1460,FIN,Kaiwen Li,60,1,Europe,Finland
+1460,FIN,Rasmus Andersson,60,1,Europe,Finland
+1460,NGR,Chukwuka Michael,60,1,Africa,Nigeria
+1460,SUI,Nicolas Gerber,60,1,Europe,Switzerland
+1460,DEN,Victor Popp,60,1,Europe,Denmark
+1460,DEN,Mikkel Langemark,60,1,Europe,Denmark
+1460,ESP,Manuel Calero,60,1,Europe,Spain
+1460,DEN,Mads Storm Randrup,60,1,Europe,Denmark
+1460,BUL,Nikolay Kolev,60,1,Europe,Bulgaria
+1460,TUR,Berkay Cicen,60,1,Europe,Türkiye
+1460,ZAM,Gift Kangelesa,60,1,Africa,Zambia
+1460,ZAM,Maurice Mbewe,60,1,Africa,Zambia
+1460,ZAM,Justine Simwanza,60,1,Africa,Zambia
+1460,FIN,Ananda Galvani Daniswara,60,1,Europe,Finland
+1460,JPN,Shun Saito,60,1,Asia,Japan
+1460,BOT,Thabang Nawa,60,1,Africa,Botswana
+1460,TPE,Tso Chuan Yeh,60,1,Asia,Chinese Taipei
+1460,TPE,Wen Che Lee,60,1,Asia,Chinese Taipei
+1460,RSA,Tak Wing Yu,60,1,Africa,South Africa
+1460,ITA,Marco Danti,60,1,Europe,Italy
+1460,SUI,Liano Panza,60,1,Europe,Switzerland
+1460,ITA,Zyver John De Leon,60,1,Europe,Italy
+1503,GER,Tamino Procida,50,3,Europe,Germany
+1503,DEN,Niklas Lynge Olesen,50,3,Europe,Denmark
+1505,SLO,Aljaz Ferk,50,2,Europe,Slovenia
+1505,POL,Michal Sobolewski,50,2,Europe,Poland
+1505,EST,Rene Leeman,50,2,Europe,Estonia
+1505,EST,Chris Robin Talts,50,2,Europe,Estonia
+1505,SLO,Ziga Podgoršek,50,2,Europe,Slovenia
+1510,HUN,Marcell Csobod,40,3,Europe,Hungary
+1511,MLT,Nigel Degaetano,40,2,Europe,Malta
+1511,POR,Kevin Selvarajah,40,2,Europe,Portugal
+1511,CYP,Constantinos Symeonides,40,2,Europe,Cyprus
+1511,LTU,Domas Paksys,40,2,Europe,Lithuania
+1511,AUT,Ilija Nicolussi,40,2,Europe,Austria
+1511,FRA,Raphael Chenu,40,2,Europe,France
+1511,ROU,Calin Tudor Turcu,40,2,Europe,Romania
+1518,EST,Rainer Kaljumae,40,1,Europe,Estonia
+1518,EST,Mihkel Talts,40,1,Europe,Estonia
+1518,SWE,Viktor Aglinder,40,1,Europe,Sweden
+1518,SWE,Niclas Borg Sigg,40,1,Europe,Sweden
+1518,TUR,Yazgan Calisir,40,1,Europe,Türkiye
+1518,COL,Juan Felipe Noguera,40,1,Pan America,Colombia
+1518,NOR,Mads Marum,40,1,Europe,Norway
+1518,TUR,Okan Gultekin,40,1,Europe,Türkiye
+1518,ENG,Ben Hunt,40,1,Europe,England
+1518,POR,Daniel Mendes,40,1,Europe,Portugal
+1518,SWE,Max Gotfredsen,40,1,Europe,Sweden
+1518,EST,Aleksander Bazanov,40,1,Europe,Estonia
+1518,RUS,Ilya Timofeev,40,1,Europe,Russia
+1518,ITA,Nicolò Volpi,40,1,Europe,Italy
+1518,POL,Michal Szczypka,40,1,Europe,Poland
+1518,EST,Robin Schmalz,40,1,Europe,Estonia
+1518,POR,Pedro Pedroso,40,1,Europe,Portugal
+1518,ESP,Jacobo Fernandez,40,1,Europe,Spain
+1518,EST,Hugo Themas,40,1,Europe,Estonia
+1518,EST,Roland Kutsei,40,1,Europe,Estonia
+1518,EST,Andrei Schmidt,40,1,Europe,Estonia
+1518,EST,Marti Joost,40,1,Europe,Estonia
+1518,EST,Rasmus Roogsoo,40,1,Europe,Estonia
+1518,SWE,Tim Mörk,40,1,Europe,Sweden
+1518,POR,Daniel Costa,40,1,Europe,Portugal
+1518,GER,Karim Krehemeier,40,1,Europe,Germany
+1518,POL,Łukasz Chudzinski,40,1,Europe,Poland
+1518,POL,Franciszek Kaminski,40,1,Europe,Poland
+1518,POL,Piotr Heinke,40,1,Europe,Poland
+1518,POL,Kajetan Baranowski,40,1,Europe,Poland
+1518,CAN,Joshua Chang,40,1,Pan America,Canada
+1518,POL,Adam Bogacz,40,1,Europe,Poland
+1518,CZE,Tomáš Patera,40,1,Europe,Czech Republic
+1518,CZE,Tomáš Vrbka,40,1,Europe,Czech Republic
+1518,HUN,Csanad Horvath,40,1,Europe,Hungary
+1518,GER,Sanjeevi Padmanabhan Vasudevan,40,1,Europe,Germany
+1518,NOR,Andreas Roksvaag,40,1,Europe,Norway
+1518,GER,Jonathan Dresp,40,1,Europe,Germany
+1556,GER,Moritz Unz,30,3,Europe,Germany
+1557,ISL,Jonas Baldursson,30,2,Europe,Iceland
+1557,ISL,Eidur Isak Broddason,30,2,Europe,Iceland
+1557,LAT,Arturs Kelpe,30,2,Europe,Latvia
+1557,MKD,Ivan Pejoski,30,2,Europe,Macedonia
+1557,LAT,Roberts Renars Miscenko,30,2,Europe,Latvia
+1557,LAT,Pauls Eliass Rozenvalds,30,2,Europe,Latvia
+1557,LTU,Augustas Valatka,30,2,Europe,Lithuania
+1557,SLO,Anel Hac Gyorkos,30,2,Europe,Slovenia
+1557,FIN,Zafir Emran,30,2,Europe,Finland
+1557,WAL,Paak Yee Chong,30,2,Europe,Wales
+1557,ENG,Harry Morgan,30,2,Europe,England
+1557,BUL,Kristian Kitanov,30,2,Europe,Bulgaria
+1557,POR,Rodrigo Almeida,30,2,Europe,Portugal
+1570,ENG,Thomas Joseph Stanford,30,1,Europe,England
+1570,WAL,Gavin Kirby,30,1,Europe,Wales
+1570,ENG,Harry Lines,30,1,Europe,England
+1570,ENG,Eid Ali Al Maliki,30,1,Europe,England
+1570,ENG,Felix Wright,30,1,Europe,England
+1570,WAL,Barry Garnham,30,1,Europe,Wales
+1570,ENG,Luke Griffiths,30,1,Europe,England
+1570,WAL,Harper Leigh,30,1,Europe,Wales
+1570,ENG,Harry Willson,30,1,Europe,England
+1579,SUI,Nicolas Franconville,20,2,Europe,Switzerland
+1580,HUN,Mark Szent-Andrassy,20,1,Europe,Hungary
+1580,SRB,Ilija Pavlovic,20,1,Europe,Serbia
+1580,CGO,Mbongo Dimitri,20,1,Africa,Congo
+1580,BOT,Keone Olatoste,20,1,Africa,Botswana
+1580,POR,Angelo Silva,20,1,Europe,Portugal
+1580,GRE,Axilleas Tsartsidis,20,1,Europe,Greece
+1580,WAL,Scott Oates,20,1,Europe,Wales
+1580,BOT,Gotsilemang Motlhabane,20,1,Africa,Botswana
+1580,SLO,Domen Lonzarič,20,1,Europe,Slovenia
+1580,BOT,Tsamorena Kevin Kgosidialwa,20,1,Africa,Botswana
+1580,LTU,Linas Supronas,20,1,Europe,Lithuania
+1580,BEN,Jules Francklin Nahouenou,20,1,Africa,Benin
+1580,POL,Michal Matysiak,20,1,Europe,Poland
+1580,HUN,Zsombor Dulcz,20,1,Europe,Hungary
+1580,BOT,Tshimologo Rasta,20,1,Africa,Botswana
+1580,BEN,Mario Anagonou,20,1,Africa,Benin
+1580,WAL,Adam Stewart,20,1,Europe,Wales
+1580,AZE,Ravan Niftaliyev,20,1,Europe,Azerbaijan
+1580,GRE,Theodoros Papadopoulos,20,1,Europe,Greece
+1580,GER,Ansgar Kirste,20,1,Europe,Germany
+1580,GER,Matti-Lukka Bahro,20,1,Europe,Germany
+1580,LAT,Patriks Kandis,20,1,Europe,Latvia
+1580,BEN,Blaise Awolabi Effouyemi,20,1,Africa,Benin
+1580,BEN,Raoul Charbel Kodjo,20,1,Africa,Benin
+1580,BEN,Alex Revelie Djinin Sah,20,1,Africa,Benin
+1580,BEN,Ulrich Tometin,20,1,Africa,Benin
+1580,BUL,Pavel Dimitrov,20,1,Europe,Bulgaria
+1580,AUT,Erik Seiwald,20,1,Europe,Austria
+1580,ESP,Adrian Oncina,20,1,Europe,Spain
+1580,ESP,Nacho Cervello,20,1,Europe,Spain
+1580,BEN,Seto Priskero Kiki,20,1,Africa,Benin
+1580,BEN,Godson Dossa,20,1,Africa,Benin
+1580,BEN,Alhassane Songoma,20,1,Africa,Benin
+1580,BEN,Elise Assigbe,20,1,Africa,Benin
+1580,BEN,Yann Vital Abissi,20,1,Africa,Benin
+1580,EST,Anton Berik,20,1,Europe,Estonia
+1580,LAT,Rolands Bratcikovs,20,1,Europe,Latvia
+1580,BOT,Tsaone Mosweu,20,1,Africa,Botswana
+1580,SVK,Richard Pavlik,20,1,Europe,Slovakia
+1580,SLO,Mark Koroša,20,1,Europe,Slovenia
+1580,SVK,Simeon Suchy,20,1,Europe,Slovakia
+1580,GER,Moritz Miller,20,1,Europe,Germany
+1580,AUT,Richard Schneeberger,20,1,Europe,Austria
+1580,AUT,Adrian Schwarzmann,20,1,Europe,Austria
+1580,AUT,Syed Daanyaal Ali,20,1,Europe,Austria
+1580,LTU,Matas Mackevicius,20,1,Europe,Lithuania
+1580,FRA,Louis Lefevre,20,1,Europe,France
+1580,FRA,Tristan Grellier,20,1,Europe,France
+1580,FRA,Yohann Osvald,20,1,Europe,France
+1580,FRA,Eliott Morille,20,1,Europe,France
+1580,FRA,Timeo Lacour,20,1,Europe,France
+1580,FRA,Axel Ganci,20,1,Europe,France
+1580,FRA,Swann Hardi,20,1,Europe,France
+1580,FRA,Ewan Goulin,20,1,Europe,France
+1580,LAT,Arnolds Tiļļa,20,1,Europe,Latvia
+1580,BEN,Gildas Tobossi,20,1,Africa,Benin
+1580,BEN,T. L. Novalis Noel Noukpo,20,1,Africa,Benin
+1580,NIG,Yasser Abdelkader Souna Sido,20,1,Africa,NIGER Fédération Nigerienne de Badminton
+1580,BEN,Gbenakpon Franck Allognon,20,1,Africa,Benin
+1580,NIG,Issoufou Hamadou Ali,20,1,Africa,NIGER Fédération Nigerienne de Badminton
+1580,BEN,Edric Marnel Charbel Mehou,20,1,Africa,Benin
+1580,NGR,Abba Mohammed,20,1,Africa,Nigeria
+1580,NIG,Abdoul Fatah Soumaila Tiecoura,20,1,Africa,NIGER Fédération Nigerienne de Badminton
+1580,BEN,Spero Dossa,20,1,Africa,Benin
+1580,DEN,Niels Rugaard,20,1,Europe,Denmark
+1580,DEN,Jacob Thyge,20,1,Europe,Denmark
+1580,DEN,Kasper Funch,20,1,Europe,Denmark
+1580,SUI,Robin Gerber,20,1,Europe,Switzerland
+1580,DEN,Rune Tøttrup,20,1,Europe,Denmark
+1580,BUL,Stefan Zeirov,20,1,Europe,Bulgaria
+1580,SWE,Deepak Pillai,20,1,Europe,Sweden
+1580,BUL,Tsvetomir Stoyanov,20,1,Europe,Bulgaria
+1580,BUL,Krasimir Todorov,20,1,Europe,Bulgaria
+1580,BUL,Aleksander Petrov,20,1,Europe,Bulgaria
+1580,BOT,Nelson Tjihumino,20,1,Africa,Botswana
+1580,BOT,Phenyo Mokgwatlheng,20,1,Africa,Botswana
+1580,BOT,Oankgoga Tidimatso,20,1,Africa,Botswana
+1580,BOT,Ryan Ngetupe Kehinana,20,1,Africa,Botswana
+1580,BOT,Baldwin Atlang Wesi,20,1,Africa,Botswana
+1580,BOT,Trinity Pheko,20,1,Africa,Botswana
+1580,BOT,Sibusiso Jabulani Ntungwana,20,1,Africa,Botswana
+1580,BOT,Modiri Motshegwe,20,1,Africa,Botswana
+1580,BOT,Kamogelo Bofelo Wesi,20,1,Africa,Botswana
+1580,LES,Neo Rahlolo,20,1,Africa,Losotho
+1580,BOT,Thabang Lebogang,20,1,Africa,Botswana
+1580,SUI,Matthias Trauffer,20,1,Europe,Switzerland
+1580,SUI,Andri Niedermann,20,1,Europe,Switzerland
+1580,ITA,Diego Scalvini,20,1,Europe,Italy
+1580,SUI,Josua Hardmeier,20,1,Europe,Switzerland
+1580,SWE,Marcus Svenson,20,1,Europe,Sweden
+1580,SUI,Noel Tappeiner,20,1,Europe,Switzerland
+1580,NED,Casper Spaans,20,1,Europe,Netherlands
+1580,SUI,Niklas Kramer,20,1,Europe,Switzerland
+1673,LAT,Edijs Livins,10,1,Europe,Latvia
+1673,SLO,Daniel Klančar,10,1,Europe,Slovenia
+1673,CYP,Elias Nicolaou,10,1,Europe,Cyprus
+1673,LAT,Ivo Keiss,10,1,Europe,Latvia
+1673,IRL,Tony Crowley,10,1,Europe,Ireland
+1673,ISL,Gustav Nilsson,10,1,Europe,Iceland
+1673,ISL,Stefan Arni Arnarsson,10,1,Europe,Iceland
+1673,LAT,Gustavs Davids Brecs,10,1,Europe,Latvia
+1673,LAT,Toms Sala,10,1,Europe,Latvia
+1673,LAT,Rihards Zugs,10,1,Europe,Latvia
+1673,LAT,Leonardo Golovcenko,10,1,Europe,Latvia
+1673,SLO,Jan Krumpak,10,1,Europe,Slovenia
+1673,FRA,Martin Boiveau,10,1,Europe,France
+1673,UKR,Vladyslav Kunin,10,1,Europe,Ukraine
+1673,LAT,Anrijs Zaķis,10,1,Europe,Latvia
+1673,LAT,Edzus Meirans,10,1,Europe,Latvia
+1673,LTU,Dominykas Gabriunas,10,1,Europe,Lithuania
+1673,HUN,Bene Benjamin Kiss,10,1,Europe,Hungary
+1673,NED,Pjotr Odijk,10,1,Europe,Netherlands
+1673,SRB,Djordje Stepanovic,10,1,Europe,Serbia
+1673,DEN,Sune Juul Ørskov,10,1,Europe,Denmark
+1673,FRO,Rúni Øster,10,1,Europe,Faroe Islands
+1695,MRI,Khemtish Nundah,2,1,Africa,Mauritius
