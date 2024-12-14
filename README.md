@@ -10,5 +10,4 @@ FOTO WEB
 ![image](https://github.com/user-attachments/assets/53c72c6a-edd0-4628-a616-20ccff4b9670)
 ![image](https://github.com/user-attachments/assets/33d51804-95b4-451b-a64b-d535f23332c0)
 ![image](https://github.com/user-attachments/assets/fb254055-3bc5-4e88-8513-644a92bc9992)
-![image](https://github.com/user-attachments/assets/20a36f2d-58a1-4001-967d-475ba79ca77a)
 ![image](https://github.com/user-attachments/assets/29cfadbc-46f9-4bc7-acba-a5728c2df4d6)
